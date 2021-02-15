@@ -1,0 +1,1105 @@
+[pl_row pagelayer-id="Xl02pOpiXGl8D12d"  stretch="auto" col_gap="0" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_type="image" ele_bg_color="" ele_bg_attachment="scroll" ele_bg_posx="center" ele_bg_posy="center" ele_bg_repeat="no-repeat" ele_bg_size="cover" ele_padding="10em,0em,8em,0em" overlay_type="color" overlay_transperancy="0.6" overlay_color="#191c1dff" ele_margin="-77px,0px,0px,0px" ele_padding_mobile="140px,10px,40px,10px" ele_margin_tablet="-125px,0px,0px,0px" ele_padding_tablet="170px,15px,70px,15px" ele_margin_mobile="-125px,0px,0px,0px" ele_bg_img="{{theme_url}}/images/banner.jpg" bg_slider_speed="2600" bg_slider="{{theme_url}}/images/banner01.jpg,{{theme_url}}/images/banner02.jpg"]
+[pl_col pagelayer-id="RV1SSnKffwmCBwtm"  widget_space="15" overlay_hover_delay="400"]
+[pl_heading pagelayer-id="9Z6yCJFyKch1sz5Q"  heading_state="normal" color="#feb209ff" align="center" heading_typo=",350,,500,,,Solid,0.7,Uppercase,5," animation="fadeInDown" animation_delay="600" animation_speed="" heading_typo_mobile=",60,,,,,Solid,,,," heading_typo_tablet=",200,,,,,Solid,,,," ele_margin="0em,20em,0em,0em" ele_margin_tablet="0em,8em,0em,0em" ele_padding_mobile="1px,1px,1px,1px" ele_margin_mobile="0em,12em,0em,0em"]
+
+
+
+
+
+
+
+He[/pl_heading]
+[pl_divider pagelayer-id="IKSqqNWZvvxogZjt"  divider_style="solid" divider_color="#f9f8f8ff" divider_weight="2" divider_widht="68" divider_gap="10" divider_alignment="center" divider_widht_tablet="52" divider_gap_tablet="NaN" divider_widht_mobile="90"]
+[/pl_divider]
+[pl_heading pagelayer-id="IzdEobNJxLKZXKza"  heading_state="normal" color="#f3f4f3ff" align="center" heading_typo=",120,,500,,,Solid,0.9,Uppercase,8," animation="fadeInUp" animation_delay="700" animation_speed="" heading_typo_mobile=",35,,,,,Solid,,,," heading_typo_tablet=",50,,,,,Solid,,,,"]
+
+
+
+
+
+
+
+Lpers hand[/pl_heading]
+[pl_divider pagelayer-id="zO9eT3VxJmxaKp0P"  divider_style="solid" divider_color="#f9f8f8ff" divider_weight="2" divider_widht="68" divider_gap="10" divider_alignment="center" divider_widht_tablet="52" divider_widht_mobile="90"]
+[/pl_divider]
+[pl_text pagelayer-id="hOgMQmv0O6L6adpq"  ele_padding="1em,12em,1em,12em" animation="fadeInUp" animation_delay="700" animation_speed="slow" ele_padding_tablet="15px,15px,15px,15px" ele_padding_mobile="1px,1px,1px,1px"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p style="text-align: center;"><span style="color: rgb(238, 236, 225);">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliquip ex ea commodo consequat.</span></p>[/pl_text]
+[pl_social_grp pagelayer-id="Y0Hoxx1V9COzTSIi"  align="center" group_layout="pagelayer-btn-grp-horizontal" icon_spacing="14" icon_size="20" color_scheme="" icon_color="#feb209ff" social_hover_delay="400" icon_color_hover="#ffffff" bg_shape="pagelayer-social-shape-circle" bg_size="10" animation="fadeInUp" animation_delay="800" animation_speed="slow" icon_bg_color="#ffffffff" icon_bg_color_hover="#feb209ff" social_hover="hover"]
+[pl_social pagelayer-id="Np74Opsrk8Iy7hbv"  icon="fab fa-facebook-f" social_url="https://facebook.com/sitepad"]
+[/pl_social]
+[pl_social pagelayer-id="e5uP72O9g32wuqDM"  icon="fab fa-twitter" social_url="https://twitter.com/sitepad_editor"]
+[/pl_social]
+[pl_social pagelayer-id="utTU4svGFkDo8ub5"  icon="fab fa-google-plus-g" social_url="https://plus.google.com/sitepad"]
+[/pl_social]
+[pl_social pagelayer-id="1rrdGQ4K2ZezLe79"  icon="fab fa-instagram" social_url="https://instagram.com/sitepad"]
+[/pl_social]
+[/pl_social_grp]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="ktbsyqEiqUhD5DU9"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_padding="4em,0em,3em,0em" ele_padding_mobile="20px,0px,30px,0px" ele_margin="0em,0em,0em,0em" ele_margin_mobile="0em,0em,0em,0em"]
+[pl_col pagelayer-id="yHfvfS6VNnCVNrul"  widget_space="8" overlay_hover_delay="400" col="6" animation="" animation_delay="600" content_pos="center"]
+[pl_heading pagelayer-id="gabT7pVlCsatCNKC"  heading_state="normal" color="" align="center" heading_typo=",25,,600,,,Solid,1,Uppercase,5," animation="fadeInUp" animation_delay="600" heading_typo_tablet=",30,,,,,Solid,,,," heading_typo_mobile=",25,,,,,Solid,,,," ele_padding="0em,0em,0em,0em" ele_align="margin" ele_height="auto" ele_custom_width_tablet="NaNpx" ele_width_tablet="initial" ele_padding_tablet="0em,0em,0em,0em" ele_padding_mobile="0px,0px,0px,0px" ele_margin_tablet="0em,0em,0em,0em" align_tablet="center"]
+
+
+
+
+
+
+Who<span style="color: #FEB209;"> We Are</span>[/pl_heading]
+[pl_text pagelayer-id="IUoVicxF9elW8ok7"  ele_padding="0em,3em,1em,3em" animation="fadeInUp" animation_delay="700" ele_padding_tablet="5px,20px,20px,20px" ele_padding_mobile="0px,0px,0px,0px"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p style="text-align: center; font-size: 13px;">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit est laborum. Aenaen massa, Cum soolis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus</p>[/pl_text]
+[pl_text pagelayer-id="snFlYcNImuPCUdag"  ele_padding="0em,0em,0em,0em" animation="fadeInUp" animation_delay="700" ele_padding_tablet="0px,20px,0px,20px" ele_padding_mobile="0px,0px,0px,0px"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>[/pl_text]
+[pl_text pagelayer-id="delnXchdpL5EeThK"  ele_padding="0em,0em,0em,0em" animation="fadeInUp" animation_delay="700" ele_padding_tablet="0px,20px,0px,20px" ele_padding_mobile="0px,0px,0px,0px"]
+
+
+
+
+
+
+<p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit est laborum. Aenaen massa, Cum soolis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus.</p>[/pl_text]
+[pl_btn pagelayer-id="PY9ELbumoft7tsVN"  text="Read More" align="center" type="pagelayer-btn-custom" size="pagelayer-btn-custom" btn_hover_delay="400" icon_position="pagelayer-btn-icon-right" icon_spacing="5" btn_bg_color="#feb209ff" btn_color="#ffffff" btn_bg_color_hover="" btn_typo=",,,,,,Solid,,Uppercase,," btn_border_type="solid" btn_border_color="#42414f" btn_border_radius="0,0,0,0" btn_border_width="0,0,0,0" icon="fas fa-plus-circle" btn_custom_size="30" btn_hover="" animation="fadeInUp" animation_delay="700" animation_speed="slow" ele_margin_tablet="0em,0em,2em,0em" ele_margin_mobile="0em,0em,2em,0em"]
+[/pl_btn]
+[/pl_col]
+[pl_col pagelayer-id="JqDdCCWFCzINbMoE"  widget_space="8" overlay_hover_delay="400" col="6" animation="" animation_delay="600"]
+[pl_heading pagelayer-id="DYxQuGFCOLIcNZtd"  heading_state="normal" color="#111111" ele_bg_type="image" ele_bg_img="{{theme_url}}/images/dots.png" ele_padding="6em,6em,6em,6em" ele_margin="0%,18%,-25%,18%" ele_bg_repeat="repeat-x" ele_zindex="1" ele_css="{{element}}{
+margin-bottom: -25% !important;
+}" animation="fadeInUp" animation_delay="600" ele_padding_mobile="4em,1em,4em,1em"]
+
+
+
+
+
+
+[/pl_heading]
+[pl_image pagelayer-id="X4Pd2LYEHh2Cp9ZU"  id="{{theme_url}}/images/home01.jpg" id-size="full" align="center" img_hover="normal" img_hover_delay="400" caption_color="#0986c0" border_radius="0px,0px,0px,0px" ele_padding="0em,0em,0em,0em" animation="fadeInUp" animation_delay="700" animation_speed="slow" ele_padding_tablet="0px,0px,0px,0px" ele_padding_mobile="0px,0px,0px,0px" border_width="0px,0px,0px,0px" border_color="#0c0b0bff" icon="fas fa-plus-circle" icon_color="#efefeeff" icon_size="35" overlay_bg_type="color" overlay_bg="#1314146f" content_position="center" show_always="true" max-width="NaN" overlay="true"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[/pl_image]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="wEiGUAyhEv5MaAll"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_padding="1em,0em,2em,0em"]
+[pl_col pagelayer-id="1L38tVW8iJNLwRAU"  widget_space="15" overlay_hover_delay="400" ele_padding="0em,0em,0em,0em"]
+[pl_heading pagelayer-id="4iHnkvGKn0tSAyh4"  heading_state="normal" color="" align="center" heading_typo=",25,,600,,,Solid,1,Uppercase,5," animation="fadeInUp" animation_delay="600" heading_typo_tablet=",30,,,,,Solid,,,," heading_typo_mobile=",25,,,,,Solid,,,," ele_padding="0em,4em,0em,32em" align_tablet="center" ele_padding_tablet="0em,0em,0em,0em" ele_padding_mobile="0em,0em,0em,0em" ele_margin_mobile="0px,0px,0px,0px" ele_margin_tablet="0em,0em,0em,0em"]
+
+
+
+
+
+
+About <span style="color: #FEB209;">Us</span>[/pl_heading]
+[pl_text pagelayer-id="GxkhgpN1tt5HBpam"  ele_padding="0em,4em,0em,32em" animation="fadeInUp" animation_delay="700" ele_padding_tablet="0px,20px,60px,20px" ele_padding_mobile="0px,0px,0px,0px" ele_margin="0px,0px,-40px,0px"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p style="text-align: center; font-size: 13px;">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit est laborum. Aenaen massa, Cum soolis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus</p>[/pl_text]
+[/pl_col]
+[pl_col pagelayer-id="otBXFh6Wa30H7pYG"  widget_space="8" overlay_hover_delay="400" col="6" animation="" animation_delay="600"]
+[pl_heading pagelayer-id="flHb2bvssVqZ6Lj7"  heading_state="normal" color="#111111" ele_bg_type="image" ele_bg_img="{{theme_url}}/images/dots.png" ele_padding="6em,6em,6em,6em" ele_margin="0%,18%,-25%,18%" ele_bg_repeat="repeat-x" ele_zindex="1" ele_css="{{element}}{
+margin-bottom: -25% !important;
+}" animation="fadeInUp" animation_delay="600" ele_margin_mobile="3em,3em,0em,3em" ele_padding_mobile="4em,1em,4em,1em"]
+
+
+
+
+
+
+[/pl_heading]
+[pl_image pagelayer-id="anLO26EL9NfAWlzS"  id="{{theme_url}}/images/home02.jpg" id-size="full" align="center" img_hover="normal" img_hover_delay="400" caption_color="#0986c0" border_radius="0px,0px,0px,0px" ele_padding="0em,0em,0em,0em" animation="fadeInUp" animation_delay="700" animation_speed="slow" ele_padding_tablet="0px,0px,0px,0px" ele_padding_mobile="0px,0px,0px,0px" border_width="0px,0px,0px,0px" border_color="#0c0b0bff" icon="fas fa-plus-circle" icon_color="#efefeeff" icon_size="35" overlay_bg_type="color" overlay_bg="#1314146f" content_position="center" show_always="true" max-width="NaN" overlay="true"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[/pl_image]
+[pl_btn pagelayer-id="JDiF9fB5ub8DlWpH"  text="Since 2020" align="right" type="pagelayer-btn-custom" size="pagelayer-btn-custom" btn_hover_delay="400" icon_position="pagelayer-btn-icon-right" icon_spacing="5" btn_bg_color="#feb209ff" btn_color="#ffffff" btn_bg_color_hover="" btn_typo=",35,,,,,Solid,1,Uppercase,," btn_border_type="solid" btn_border_color="#42414f" btn_border_radius="0,0,0,0" btn_border_width="0,0,0,0" icon="" btn_custom_size="30" btn_hover="" ele_margin="-4.2em,-7em,0em,0em" ele_zindex="1" ele_padding="0em,0em,0em,0em" ele_css="{{element}} .pagelayer-btn-holder{
+margin-right: -115px !important;
+}" animation="fadeInUp" animation_delay="700" ele_padding_tablet="0px,0px,0px,0px" ele_margin_tablet="-4.2em,1em,1em,0em" align_tablet="left" align_mobile="left" btn_typo_mobile=",20,,,,,Solid,,,," ele_margin_mobile="-3.28em,0em,0em,0em"]
+[/pl_btn]
+[/pl_col]
+[pl_col pagelayer-id="2PgAa8ynlAdM8fVv"  widget_space="15" overlay_hover_delay="400" col="6" content_pos="center" ele_padding="1em,0em,0em,0em"]
+[pl_text pagelayer-id="5bMJclInBuMoTvTj"  ele_padding="0em,0em,0em,0em" animation="fadeInUp" animation_delay="700" ele_padding_tablet="0px,0px,0px,0px" ele_padding_mobile="0px,0px,0px,0px"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit est laborum. Aenaen massa, Cum soolis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligule eget dolor. Aenaen massa, Cum soolis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus</p>[/pl_text]
+[pl_text pagelayer-id="JXBz94fsEwN4qecz"  ele_padding="0em,0em,0em,0em" animation="fadeInUp" animation_delay="700" ele_padding_tablet="0px,0px,0px,0px" ele_padding_mobile="0px,0px,0px,0px"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>[/pl_text]
+[pl_list pagelayer-id="i6HvqGEVrngH1GJj"  list_type="decimal-leading-zero" spacing="10" list_text_state="normal" item_indent="10" list_icon_state="normal" icon_color="#0986c0" icon_border_type="" icon_border_color="#cbd2dc78" icon_border_width="3" side_spacing="27" list_typo=",16,,,,,Solid,,,," animation="fadeInUp" animation_delay="600"]
+[pl_list_item pagelayer-id="HoQxBs5dnd6sNhyZ"  show_icon="" icon="fas fa-star"]
+
+
+
+
+
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.[/pl_list_item]
+[pl_list_item pagelayer-id="hDwcMPgJdxaxaLMG"  show_icon="" icon="fas fa-star"]
+
+
+
+
+
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.[/pl_list_item]
+[pl_list_item pagelayer-id="LnNtyh4sabFRl5yE"  show_icon="" icon="fas fa-star"]
+
+
+
+
+
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.[/pl_list_item]
+[pl_list_item pagelayer-id="idJLYy2UAyhbGp7n"  show_icon="" icon="fas fa-star"]
+
+
+
+
+
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.[/pl_list_item]
+[/pl_list]
+[pl_btn pagelayer-id="EiGT8aF9GxFdk2l4"  text="Read More" align="left" type="pagelayer-btn-custom" size="pagelayer-btn-custom" btn_hover_delay="400" icon_position="pagelayer-btn-icon-right" icon_spacing="5" btn_bg_color="#feb209ff" btn_color="#ffffff" btn_bg_color_hover="" btn_typo=",,,,,,Solid,,Uppercase,," btn_border_type="solid" btn_border_color="#42414f" btn_border_radius="0,0,0,0" btn_border_width="0,0,0,0" icon="fas fa-plus-circle" btn_custom_size="30" btn_hover="" animation="fadeInUp" animation_delay="600"]
+[/pl_btn]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="r2jId3TkhIiqMVtY"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_padding="4em,0em,3em,0em" ele_padding_mobile="0px,0px,30px,0px" ele_margin="0em,0em,0em,0em" ele_margin_mobile="0em,0em,0em,0em" ele_margin_tablet="0px,0px,0px,0px" ele_padding_tablet="0px,0px,0px,0px"]
+[pl_col pagelayer-id="xUossyWXm9wpUkVv"  widget_space="8" overlay_hover_delay="400" col="12" animation="" animation_delay="600"]
+[pl_inner_row pagelayer-id="TsPdts1hWBa6Tqxj"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100"]
+[pl_inner_col pagelayer-id="zDk65KZnAVF2lc5A"  widget_space="15" overlay_hover_delay="400"]
+[pl_heading pagelayer-id="3RhVxAmristnZZXM"  heading_state="normal" color="" align="center" heading_typo=",30,,700,,,Solid,1,Uppercase,5," animation="fadeInUp" animation_delay="600" heading_typo_tablet=",30,,,,,Solid,,,," heading_typo_mobile=",25,,,,,Solid,,,," ele_padding="0em,32em,0em,4em" ele_align="margin" ele_height="auto" ele_custom_width_tablet="NaNpx" ele_width_tablet="initial" ele_padding_tablet="0em,0em,0em,0em" ele_padding_mobile="0px,0px,0px,0px" ele_margin_tablet="0em,0em,0em,0em" align_tablet="center"]
+
+
+
+
+
+Recent<span style="color: #FEB209;"> Causes</span>[/pl_heading]
+[pl_text pagelayer-id="y0peVEm8FpZYITNo"  ele_padding="0em,32em,1em,4em" animation="fadeInUp" animation_delay="700" ele_padding_tablet="0px,20px,0px,20px" ele_padding_mobile="0px,0px,0px,0px"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p style="text-align: center; font-size: 13px;">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit est laborum. Aenaen massa, Cum soolis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus</p>[/pl_text]
+[/pl_inner_col]
+[/pl_inner_row]
+[pl_inner_row pagelayer-id="04opy1Yc9Ha0DXHI"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100"]
+[pl_inner_col pagelayer-id="zBh4vk10MqOlotkH"  widget_space="15" overlay_hover_delay="400" col="6"]
+[pl_heading pagelayer-id="erbVMCloOJsAx5lH"  heading_state="normal" color="#111111" ele_bg_type="image" ele_bg_img="{{theme_url}}/images/dots.png" ele_padding="6em,6em,6em,6em" ele_margin="0%,-9%,-31%,20%" ele_bg_repeat="repeat-x" ele_zindex="1" ele_css="{{element}}{
+margin-bottom: -25% !important;
+}" animation="fadeInUp" animation_delay="600" ele_padding_mobile="2em,4em,4em,4em" ele_margin_mobile="1em,2em,1em,2em"]
+
+
+
+
+
+
+[/pl_heading]
+[pl_image pagelayer-id="8OUdUWE6t4tsda5g"  id="{{theme_url}}/images/causes01.jpg" id-size="full" align="center" img_hover="normal" img_hover_delay="400" caption_color="#0986c0" border_radius="0px,0px,0px,0px" ele_padding="0em,0em,0em,0em" animation="fadeInUp" animation_delay="700" animation_speed="slow" ele_padding_tablet="0px,0px,0px,0px" ele_padding_mobile="0px,0px,0px,0px" border_width="0px,0px,0px,0px" border_color="#0c0b0bff" icon="" icon_color="#efefeeff" icon_size="35" overlay_bg_type="color" overlay_bg="#1314146f" content_position="center" max-width="NaN"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[/pl_image]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="5lIzFEbR7TlTXp2B"  widget_space="8" overlay_hover_delay="400" col="6" animation="" animation_delay="600" content_pos="center" ele_padding="6em,0em,0em,3em" ele_padding_tablet="1px,1px,1px,1px" ele_padding_mobile="1px,1px,1px,1px"]
+[pl_heading pagelayer-id="qPwF0Nql6zBVzbMn"  heading_state="normal" color="" align="left" heading_typo=",30,,700,,,Solid,1,Uppercase,," animation="fadeInUp" animation_delay="600" heading_typo_tablet=",30,,,,,Solid,,,," heading_typo_mobile=",25,,,,,Solid,,,," ele_padding="0em,0em,0em,0em" ele_align="margin" ele_height="auto" ele_custom_width_tablet="NaNpx" ele_width_tablet="initial" ele_padding_tablet="0em,0em,1em,0em" ele_padding_mobile="0px,0px,0px,0px" ele_margin_tablet="0em,0em,0em,0em"]
+
+
+
+
+
+Save Homeless<span style="color: #FEB209;"> People</span>[/pl_heading]
+[pl_heading pagelayer-id="6hwZA2pcT4fH1UZL"  heading_state="normal" color="" align="left" heading_typo=",20,,700,,,Solid,1,,," animation="fadeInUp" animation_delay="600" heading_typo_tablet=",20,,,,,Solid,,,," heading_typo_mobile=",18,,,,,Solid,,,," ele_padding="1em,0em,1em,0em" ele_align="margin" ele_height="auto" ele_custom_width_tablet="NaNpx" ele_width_tablet="initial" ele_padding_tablet="0em,0em,1em,0em" ele_padding_mobile="0px,0px,0px,0px" ele_margin_tablet="-1em,0em,0em,0em"]
+
+
+
+
+
+Alex Toretto Coordinator[/pl_heading]
+[pl_heading pagelayer-id="Y0JPstvAhzRVjvj7"  heading_state="normal" color="" align="left" heading_typo=",20,,700,,,Solid,1,,," animation="fadeInUp" animation_delay="600" heading_typo_tablet=",20,,,,,Solid,,,," heading_typo_mobile=",18,,,,,Solid,,,," ele_padding="0px,0px,10px,0px" ele_align="margin" ele_height="auto" ele_custom_width_tablet="NaNpx" ele_width_tablet="initial" ele_padding_tablet="0em,0em,1em,0em" ele_padding_mobile="0px,0px,0px,0px" ele_margin_tablet="-1em,0em,0em,0em"]
+
+
+
+
+
+Goal: <span style="color: #FEB209;"> 
+ $65000</span>[/pl_heading]
+[pl_heading pagelayer-id="5vxLGnxXvEcq3HiZ"  heading_state="normal" color="" align="left" heading_typo=",20,,700,,,Solid,1,,," animation="fadeInUp" animation_delay="600" heading_typo_tablet=",20,,,,,Solid,,,," heading_typo_mobile=",18,,,,,Solid,,,," ele_padding="0em,0em,0em,0em" ele_align="margin" ele_height="auto" ele_custom_width_tablet="NaNpx" ele_width_tablet="initial" ele_padding_tablet="0em,0em,0em,0em" ele_padding_mobile="0px,0px,0px,0px" ele_margin_tablet="-1em,0em,0em,0em"]
+
+
+<h1>
+
+
+Collected: <span style="color: #FEB209;"> 
+ $65000</span></h1>[/pl_heading]
+[pl_btn pagelayer-id="t2aGVxyoxL1duz1X"  text="Donate" align="left" type="pagelayer-btn-custom" size="pagelayer-btn-custom" btn_hover_delay="400" icon_position="pagelayer-btn-icon-right" icon_spacing="5" btn_bg_color="#feb209ff" btn_color="#ffffff" btn_bg_color_hover="" btn_typo=",16,,,,,Solid,,Uppercase,," btn_border_type="solid" btn_border_color="#42414f" btn_border_radius="0,0,0,0" btn_border_width="0,0,0,0" icon="fas fa-plus-circle" btn_custom_size="24" btn_hover="" ele_margin="15px,0px,0px,0px" animation="fadeInUp" animation_delay="700"]
+[/pl_btn]
+[/pl_inner_col]
+[/pl_inner_row]
+[pl_inner_row pagelayer-id="OptkJ1WSvEc3WWX5"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_padding="2em,0em,0em,0em" ele_css="@media screen and (max-width: 768px){
+{{element}} .pagelayer-row-holder{
+flex-direction: column-reverse;
+}
+}"]
+[pl_inner_col pagelayer-id="KBcLbHWwIdfsFaUl"  widget_space="8" overlay_hover_delay="400" col="6" animation="" animation_delay="600" content_pos="center" ele_padding="6em,0em,0em,3em" ele_padding_tablet="1px,1px,1px,1px" ele_margin_tablet="1px,1px,1px,1px" ele_margin_mobile="0px,0px,0px,0px" ele_padding_mobile="0px,0px,0px,0px"]
+[pl_heading pagelayer-id="R2OjXpqI5wJPcdR6"  heading_state="normal" color="" align="left" heading_typo=",30,,700,,,Solid,1,Uppercase,," animation="fadeInUp" animation_delay="600" heading_typo_tablet=",30,,,,,Solid,,,," heading_typo_mobile=",25,,,,,Solid,,,," ele_padding="0em,0em,0em,0em" ele_align="margin" ele_height="auto" ele_custom_width_tablet="NaNpx" ele_width_tablet="initial" ele_padding_tablet="0em,0em,0em,0em" ele_padding_mobile="0px,0px,0px,0px" ele_margin_tablet="0em,0em,0em,0em"]
+
+
+
+
+
+Save Homeless<span style="color: #FEB209;"> People</span>[/pl_heading]
+[pl_heading pagelayer-id="6Dk9h8VQIulzrohI"  heading_state="normal" color="" align="left" heading_typo=",20,,700,,,Solid,1,,," animation="fadeInUp" animation_delay="600" heading_typo_tablet=",20,,,,,Solid,,,," heading_typo_mobile=",18,,,,,Solid,,,," ele_padding="1em,0em,1em,0em" ele_align="margin" ele_height="auto" ele_custom_width_tablet="NaNpx" ele_width_tablet="initial" ele_padding_tablet="1em,0em,1em,0em" ele_padding_mobile="0px,0px,0px,0px" ele_margin_tablet="-1em,0em,0em,0em"]
+
+
+
+
+
+Alex Toretto Coordinator[/pl_heading]
+[pl_heading pagelayer-id="A5YA6F9wD7XQMvOa"  heading_state="normal" color="" align="left" heading_typo=",20,,700,,,Solid,1,,," animation="fadeInUp" animation_delay="600" heading_typo_tablet=",20,,,,,Solid,,,," heading_typo_mobile=",18,,,,,Solid,,,," ele_padding="0px,0px,10px,0px" ele_align="margin" ele_height="auto" ele_custom_width_tablet="NaNpx" ele_width_tablet="initial" ele_padding_tablet="0em,0em,1em,0em" ele_padding_mobile="0px,0px,0px,0px" ele_margin_tablet="-1em,0em,0em,0em"]
+
+
+
+
+
+Goal: <span style="color: #FEB209;"> 
+ $65000</span>[/pl_heading]
+[pl_heading pagelayer-id="3AZpeXKT1JFfcPN0"  heading_state="normal" color="" align="left" heading_typo=",20,,700,,,Solid,1,,," animation="fadeInUp" animation_delay="600" heading_typo_tablet=",20,,,,,Solid,,,," heading_typo_mobile=",18,,,,,Solid,,,," ele_padding="0em,0em,0em,0em" ele_align="margin" ele_height="auto" ele_custom_width_tablet="NaNpx" ele_width_tablet="initial" ele_padding_tablet="0em,0em,0em,0em" ele_padding_mobile="0px,0px,0px,0px" ele_margin_tablet="-1em,0em,0em,0em"]
+
+
+
+
+
+Collected: <span style="color: #FEB209;"> 
+ $65000</span>[/pl_heading]
+[pl_btn pagelayer-id="R7KuWkrjUkZyZrLT"  text="Donate" align="left" type="pagelayer-btn-custom" size="pagelayer-btn-custom" btn_hover_delay="400" icon_position="pagelayer-btn-icon-right" icon_spacing="5" btn_bg_color="#feb209ff" btn_color="#ffffff" btn_bg_color_hover="" btn_typo=",16,,,,,Solid,,Uppercase,," btn_border_type="solid" btn_border_color="#42414f" btn_border_radius="0,0,0,0" btn_border_width="0,0,0,0" icon="fas fa-plus-circle" btn_custom_size="24" btn_hover="" ele_margin="15px,0px,0px,0px" animation="fadeInUp" animation_delay="700"]
+[/pl_btn]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="7JXilB8HGLhIXoHs"  widget_space="15" overlay_hover_delay="400" col="6"]
+[pl_heading pagelayer-id="D0MOY9eEMgkaNx9I"  heading_state="normal" color="#111111" ele_bg_type="image" ele_bg_img="{{theme_url}}/images/dots.png" ele_padding="6em,6em,6em,6em" ele_margin="0%,20%,-31%,-9%" ele_bg_repeat="repeat-x" ele_zindex="1" ele_css="{{element}}{
+margin-bottom: -25% !important;
+}" animation="fadeInUp" animation_delay="600" ele_padding_mobile="2em,1em,4em,1em" ele_margin_mobile="0em,2em,2em,2em"]
+
+
+
+
+
+
+[/pl_heading]
+[pl_image pagelayer-id="EfU9XTjVwa7wG4cX"  id="{{theme_url}}/images/causes02.jpg" id-size="full" align="center" img_hover="normal" img_hover_delay="400" caption_color="#0986c0" border_radius="0px,0px,0px,0px" ele_padding="0em,0em,0em,0em" animation="fadeInUp" animation_delay="700" animation_speed="slow" ele_padding_tablet="0px,0px,0px,0px" ele_padding_mobile="0px,0px,0px,0px" border_width="0px,0px,0px,0px" border_color="#0c0b0bff" icon="" icon_color="#efefeeff" icon_size="35" overlay_bg_type="color" overlay_bg="#1314146f" content_position="center" max-width="NaN" ele_zindex="0"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[/pl_image]
+[/pl_inner_col]
+[/pl_inner_row]
+[pl_inner_row pagelayer-id="bzojeCPLFXrDhJYQ"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_padding="2em,0em,0em,0em"]
+[pl_inner_col pagelayer-id="AGEhGstVfz8fSgMu"  widget_space="15" overlay_hover_delay="400" col="6" ele_padding_mobile="0em,0em,0em,0em"]
+[pl_heading pagelayer-id="OETTZDfl4phIf7UM"  heading_state="normal" color="#111111" ele_bg_type="image" ele_bg_img="{{theme_url}}/images/dots.png" ele_padding="6em,6em,6em,6em" ele_margin="0%,-9%,-31%,20%" ele_bg_repeat="repeat-x" ele_zindex="1" ele_css="{{element}}{
+margin-bottom: -25% !important;
+}" animation="fadeInUp" animation_delay="600" ele_padding_mobile="2em,1em,4em,1em" ele_margin_mobile="0em,3em,3em,3em"]
+
+
+
+
+
+
+[/pl_heading]
+[pl_image pagelayer-id="jZ6hDh6N1LQAJ88X"  id="{{theme_url}}/images/causes03.jpg" id-size="full" align="center" img_hover="normal" img_hover_delay="400" caption_color="#0986c0" border_radius="0px,0px,0px,0px" ele_padding="0em,0em,0em,0em" animation="fadeInUp" animation_delay="700" animation_speed="slow" ele_padding_tablet="0px,0px,0px,0px" ele_padding_mobile="0px,0px,0px,0px" border_width="0px,0px,0px,0px" border_color="#0c0b0bff" icon="" icon_color="#efefeeff" icon_size="35" overlay_bg_type="color" overlay_bg="#1314146f" content_position="center" max-width="NaN"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[/pl_image]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="pfy6SlXbUe48DJVc"  widget_space="8" overlay_hover_delay="400" col="6" animation="" animation_delay="600" content_pos="center" ele_padding="6em,0em,0em,3em" ele_margin_tablet="0px,0px,0px,0px" ele_padding_tablet="1px,1px,1px,1px" ele_margin_mobile="0px,0px,0px,0px" ele_padding_mobile="1px,1px,1px,1px"]
+[pl_heading pagelayer-id="UILxw7zzFqod0ase"  heading_state="normal" color="" align="left" heading_typo=",30,,700,,,Solid,1,Uppercase,," animation="fadeInUp" animation_delay="600" heading_typo_tablet=",30,,,,,Solid,,,," heading_typo_mobile=",25,,,,,Solid,,,," ele_padding="0em,0em,0em,0em" ele_align="margin" ele_height="auto" ele_custom_width_tablet="NaNpx" ele_width_tablet="initial" ele_padding_tablet="0px,0px,0px,0px" ele_padding_mobile="0px,0px,0px,0px" ele_margin_tablet="0em,0em,0em,0em"]
+
+
+
+
+
+Save Homeless<span style="color: #FEB209;"> People</span>[/pl_heading]
+[pl_heading pagelayer-id="cN8jbjPENmA9OlZh"  heading_state="normal" color="" align="left" heading_typo=",20,,700,,,Solid,1,,," animation="fadeInUp" animation_delay="600" heading_typo_tablet=",20,,,,,Solid,,,," heading_typo_mobile=",18,,,,,Solid,,,," ele_padding="1em,0em,1em,0em" ele_align="margin" ele_height="auto" ele_custom_width_tablet="NaNpx" ele_width_tablet="initial" ele_padding_tablet="0em,0em,1em,0em" ele_padding_mobile="0px,0px,0px,0px" ele_margin_tablet="0em,0em,0em,0em"]
+
+
+
+
+
+Alex Toretto Coordinator[/pl_heading]
+[pl_heading pagelayer-id="urmhGKcz9WluMvGu"  heading_state="normal" color="" align="left" heading_typo=",20,,700,,,Solid,1,,," animation="fadeInUp" animation_delay="600" heading_typo_tablet=",20,,,,,Solid,,,," heading_typo_mobile=",18,,,,,Solid,,,," ele_padding="0px,0px,10px,0px" ele_align="margin" ele_height="auto" ele_custom_width_tablet="NaNpx" ele_width_tablet="initial" ele_padding_tablet="0em,0em,1em,0em" ele_padding_mobile="0px,0px,0px,0px" ele_margin_tablet="-1em,0em,0em,0em"]
+
+
+
+
+
+Goal: <span style="color: #FEB209;"> 
+ $65000</span>[/pl_heading]
+[pl_heading pagelayer-id="m4gfbqM4uld7vlXt"  heading_state="normal" color="" align="left" heading_typo=",20,,700,,,Solid,1,,," animation="fadeInUp" animation_delay="600" heading_typo_tablet=",20,,,,,Solid,,,," heading_typo_mobile=",18,,,,,Solid,,,," ele_padding="0em,0em,0em,0em" ele_align="margin" ele_height="auto" ele_custom_width_tablet="NaNpx" ele_width_tablet="initial" ele_padding_tablet="0em,0em,0em,0em" ele_padding_mobile="0px,0px,0px,0px" ele_margin_tablet="-1em,0em,0em,0em"]
+
+
+
+
+
+Collected: <span style="color: #FEB209;"> 
+ $65000</span>[/pl_heading]
+[pl_btn pagelayer-id="KevaIUJfbBrmRhqL"  text="Donate" align="left" type="pagelayer-btn-custom" size="pagelayer-btn-custom" btn_hover_delay="400" icon_position="pagelayer-btn-icon-right" icon_spacing="5" btn_bg_color="#feb209ff" btn_color="#ffffff" btn_bg_color_hover="" btn_typo=",16,,,,,Solid,,Uppercase,," btn_border_type="solid" btn_border_color="#42414f" btn_border_radius="0,0,0,0" btn_border_width="0,0,0,0" icon="fas fa-plus-circle" btn_custom_size="24" btn_hover="" ele_margin="15px,0px,0px,0px" animation="fadeInUp" animation_delay="700"]
+[/pl_btn]
+[/pl_inner_col]
+[/pl_inner_row]
+[pl_btn pagelayer-id="Bp5soszzWqYywIZj"  text="All Causes" align="center" type="pagelayer-btn-custom" size="pagelayer-btn-custom" btn_hover_delay="400" icon_position="pagelayer-btn-icon-right" icon_spacing="5" btn_bg_color="#feb209ff" btn_color="#ffffff" btn_bg_color_hover="" btn_typo=",16,,,,,Solid,,Uppercase,," btn_border_type="solid" btn_border_color="#42414f" btn_border_radius="0,0,0,0" btn_border_width="0,0,0,0" icon="fas fa-plus-circle" btn_custom_size="24" btn_hover="" ele_margin="15px,0px,0px,0px" animation="fadeInUp" animation_delay="600" ele_margin_tablet="0em,0em,3em,0em"]
+[/pl_btn]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="GMB28bQ3ZQGvbNa1"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_type="image" ele_bg_img="{{theme_url}}/images/dots.png" ele_padding="2em,0em,2em,0em"]
+[pl_col pagelayer-id="ryYBAPzcMFpxq23T"  widget_space="15" overlay_hover_delay="400"]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="doF7IQC6n014hh6P"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_type="color" ele_bg_color="#feb209ff" ele_padding="3em,0em,3em,0em" ele_padding_tablet="3em,0em,1em,0em" ele_padding_mobile="2em,0em,0em,0em"]
+[pl_col pagelayer-id="Q3B7FuBvPfxifMSh"  widget_space="15" overlay_hover_delay="400" col="4" content_pos="center"]
+[pl_counter pagelayer-id="c66rN4XfQ28P80SE"  counter_start_number="1" counter_end_number="5482" animation_duration="2000" counter_align="center" counter_text="Completed Causes" counter_text_color="#151514ff" counter_text_style=",18,,400,,,Solid,,Uppercase,," counter_number_color="#ffffffff" counter_number_style=",65,,700,,,Solid,,,," counter_number_style_mobile=",35,,,,,Solid,,,," counter_number_style_tablet=",40,,,,,Solid,,,," animation="zoomIn" animation_delay="600" ele_padding_tablet="0em,0em,2em,0em" thousand_seperator_type="," ele_css="{{element}} .pagelayer-counter-info{
+position: absolute;
+    right: 0;
+    left: 0;
+    bottom: 42px;
+}
+@media screen and (max-width: 768px){
+{{element}} .pagelayer-counter-info{
+  bottom: 38px;
+}
+}" ele_padding_mobile="0em,0em,2em,0em"]
+[/pl_counter]
+[/pl_col]
+[pl_col pagelayer-id="Oa2iFmoVKfjptjL1"  widget_space="15" overlay_hover_delay="400" col="4"]
+[pl_counter pagelayer-id="uMaIKyBY4jRei4DY"  counter_start_number="1" counter_end_number="254" animation_duration="2000" counter_align="center" counter_text="Volunteers" counter_text_color="#151514ff" counter_text_style=",18,,400,,,Solid,,Uppercase,," counter_number_color="#fcfcfcff" counter_number_style=",65,,700,,,Solid,,,," counter_number_style_mobile=",35,,,,,Solid,,,," counter_number_style_tablet=",40,,,,,Solid,,,," animation="zoomIn" animation_delay="600" ele_padding_tablet="0em,0em,2em,0em" thousand_seperator_type="," ele_css="{{element}} .pagelayer-counter-info{
+position: absolute;
+    right: 0;
+    left: 0;
+    bottom: 42px;
+}
+@media screen and (max-width: 768px){
+{{element}} .pagelayer-counter-info{
+  bottom: 38px;
+}
+}" ele_padding_mobile="0em,0em,2em,0em"]
+[/pl_counter]
+[/pl_col]
+[pl_col pagelayer-id="n6h9YLBHS2aKw3mT"  widget_space="15" overlay_hover_delay="400" col="4"]
+[pl_counter pagelayer-id="R3gET4seuN26aryE"  counter_start_number="1" counter_end_number="5478" animation_duration="2000" counter_align="center" counter_text="Donor" counter_text_color="#151514ff" counter_text_style=",18,,400,,,Solid,,Uppercase,," counter_number_color="#ffffffff" counter_number_style=",65,,700,,,Solid,,,," counter_number_style_mobile=",35,,,,,Solid,,,," counter_number_style_tablet=",40,,,,,Solid,,,," animation="zoomIn" animation_delay="600" ele_padding_tablet="0em,0em,2em,0em" thousand_seperator_type="," ele_css="{{element}} .pagelayer-counter-info{
+position: absolute;
+    right: 0;
+    left: 0;
+    bottom: 42px;
+}
+@media screen and (max-width: 768px){
+{{element}} .pagelayer-counter-info{
+  bottom: 38px;
+}
+}" ele_padding_mobile="0em,0em,2em,0em"]
+[/pl_counter]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="bMgBIR3n0LwUaFL0"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_padding="4em,0em,2em,0em"]
+[pl_col pagelayer-id="4euoPrSyIObigwcV"  widget_space="15" overlay_hover_delay="400" ele_padding="0em,0em,0em,0em"]
+[pl_heading pagelayer-id="T4HJrBtrCrkJFvf7"  heading_state="normal" color="" align="center" heading_typo=",25,,600,,,Solid,1,Uppercase,5," animation="fadeInUp" animation_delay="600" heading_typo_tablet=",30,,,,,Solid,,,," heading_typo_mobile=",25,,,,,Solid,,,," ele_padding="0em,4em,0em,32em" align_tablet="center" ele_padding_tablet="0em,0em,0em,0em" ele_padding_mobile="0em,0em,0em,0em" ele_margin_mobile="0px,0px,0px,0px" ele_margin_tablet="-2em,0em,0em,0em"]
+
+
+
+
+Upcoming <span style="color: #FEB209;">Events</span>[/pl_heading]
+[pl_text pagelayer-id="TC2q6KGGIIRLG0UW"  ele_padding="0em,4em,0em,32em" animation="fadeInUp" animation_delay="700" ele_padding_tablet="0px,20px,0px,20px" ele_padding_mobile="0px,0px,0px,0px" ele_margin="0px,0px,-40px,0px"]
+
+
+
+
+<p style="text-align: center; font-size: 13px;">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit est laborum. Aenaen massa, Cum soolis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus</p>[/pl_text]
+[/pl_col]
+[pl_col pagelayer-id="wfikQdAQrZdPcAaN"  widget_space="8" overlay_hover_delay="400" col="6" animation="" animation_delay="600"]
+[pl_inner_row pagelayer-id="IOBBtQjz1wOjrxQ3"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_type="color" ele_bg_color="#feb209ff" ele_padding="0em,0em,0em,0em" ele_margin="3em,0em,0em,0em"]
+[pl_inner_col pagelayer-id="6cRDrdMtE2ehCeGB"  widget_space="15" overlay_hover_delay="400" col="6"]
+[pl_image pagelayer-id="H5seoZ2vV0toQAt4"  id="{{theme_url}}/images/event01.jpg" id-size="full" align="center" img_hover="normal" img_hover_delay="400" caption_color="#0986c0" border_radius="0px,0px,0px,0px" ele_padding="1em,0em,1em,0em" animation="fadeInLeft" animation_delay="700" animation_speed="slow" ele_padding_tablet="0px,0px,0px,0px" ele_padding_mobile="0px,0px,0px,0px" border_width="0px,0px,0px,0px" border_color="#0c0b0bff" icon="" icon_color="#efefeeff" icon_size="35" overlay_bg_type="color" overlay_bg="" content_position="center" max-width="100" ele_margin="0em,0em,0em,-2em" ele_margin_tablet="1px,1px,1px,1px" ele_margin_mobile="0px,0px,0px,0px"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[/pl_image]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="tdvxAA8YNHaF5cnL"  widget_space="15" overlay_hover_delay="400" col="6" content_pos="center" ele_padding_tablet="0px,0px,0px,15px"]
+[pl_heading pagelayer-id="cQHEZxzcOH1HX94A"  heading_state="normal" color="#111111" heading_typo=",25,,600,,,Solid,1.2,Uppercase,," animation="fadeInUp" animation_delay="600" heading_typo_mobile=",22,,,,,Solid,,,,"]
+
+
+
+
+Peoples from donation[/pl_heading]
+[pl_heading pagelayer-id="C9SRIiI2a8HEzzhd"  heading_state="normal" color="#111111" heading_typo=",17,,600,,,Solid,1.2,,," animation="fadeInUp" animation_delay="600"]
+
+
+
+
+05:00 PM, 25 December, 2021[/pl_heading]
+[pl_text pagelayer-id="9zsLmFrGjQVLkaPx"  ele_padding="0em,2em,0em,1em" animation="fadeInUp" animation_delay="600"]
+
+
+
+
+<p style="text-align: center; font-size: 13px;"><span style="color: rgb(255, 255, 255);">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit est laborum. Aenaen massa, Cum soolis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus</span></p>[/pl_text]
+[pl_heading pagelayer-id="su4dSWLBXsx8ibW4"  heading_state="normal" color="#111111" heading_typo=",17,,600,,,Solid,1.2,,," animation="fadeInUp" animation_delay="600"]
+
+
+
+
+Managing Director[/pl_heading]
+[pl_heading pagelayer-id="G1DmomQBCeSIed22"  heading_state="normal" color="#111111" heading_typo=",24,,600,,,Solid,1.2,,," animation="fadeInUp" animation_delay="600" heading_typo_mobile=",20,,,,,Solid,,,,"]
+
+
+
+
+Joseph Anderson[/pl_heading]
+[pl_btn pagelayer-id="NvoBM62Gg7ddrfRY"  text="Donate" align="left" type="pagelayer-btn-custom" size="pagelayer-btn-custom" btn_hover_delay="400" icon_position="pagelayer-btn-icon-right" icon_spacing="5" btn_bg_color="#feb209ff" btn_color="#ffffff" btn_bg_color_hover="" btn_typo=",16,,,,,Solid,,Uppercase,," btn_border_type="solid" btn_border_color="#42414f" btn_border_radius="0,0,0,0" btn_border_width="0,0,0,0" icon="fas fa-plus-circle" btn_custom_size="24" btn_hover="" ele_margin="15px,0px,0px,0px" ele_shadow=",,,,," ele_css="{{element}} .pagelayer-btn-holder{
+box-shadow: 3px 3px 5px 1px #333 !important;
+}" animation="fadeInUp" animation_delay="600" ele_padding_tablet="0em,0em,1em,0em" ele_padding_mobile="0em,0em,1em,0em"]
+[/pl_btn]
+[/pl_inner_col]
+[/pl_inner_row]
+[pl_inner_row pagelayer-id="2iYIyKjFwhCASEiv"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_type="color" ele_bg_color="#feb209ff" ele_padding="0em,0em,0em,0em" ele_margin="3em,0em,0em,0em"]
+[pl_inner_col pagelayer-id="ws2G40tfgGfZkadQ"  widget_space="15" overlay_hover_delay="400" col="6"]
+[pl_image pagelayer-id="Er9nuylOBcUTv2aT"  id="{{theme_url}}/images/event02.jpg" id-size="full" align="center" img_hover="normal" img_hover_delay="400" caption_color="#0986c0" border_radius="0px,0px,0px,0px" ele_padding="1em,0em,1em,0em" animation="fadeInLeft" animation_delay="700" animation_speed="slow" ele_padding_tablet="0px,0px,0px,0px" ele_padding_mobile="0px,0px,0px,0px" border_width="0px,0px,0px,0px" border_color="#0c0b0bff" icon="" icon_color="#efefeeff" icon_size="35" overlay_bg_type="color" overlay_bg="" content_position="center" max-width="100" ele_margin="0em,0em,0em,-2em" ele_margin_tablet="1px,1px,1px,1px" ele_margin_mobile="0px,0px,0px,0px"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[/pl_image]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="RappsGoirkcIHOOm"  widget_space="15" overlay_hover_delay="400" col="6" content_pos="center" ele_padding_tablet="0px,0px,0px,15px"]
+[pl_heading pagelayer-id="b5sXAfPlPCB4rfnv"  heading_state="normal" color="#111111" heading_typo=",25,,600,,,Solid,1.2,Uppercase,," animation="fadeInUp" animation_delay="600" heading_typo_mobile=",22,,,,,Solid,,,,"]
+
+
+
+
+Save the children[/pl_heading]
+[pl_heading pagelayer-id="UPNVrQp7edGS8SDV"  heading_state="normal" color="#111111" heading_typo=",17,,600,,,Solid,1.2,,," animation="fadeInUp" animation_delay="600"]
+
+
+
+
+05:00 PM, 25 December, 2021[/pl_heading]
+[pl_text pagelayer-id="FyU3WSwN1Sd3rxhi"  ele_padding="0em,2em,0em,1em" animation="fadeInUp" animation_delay="600"]
+
+
+
+
+<p style="text-align: center; font-size: 13px;"><span style="color: rgb(255, 255, 255);">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit est laborum. Aenaen massa, Cum soolis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus</span></p>[/pl_text]
+[pl_heading pagelayer-id="9FWcV3CuyPOlfMGO"  heading_state="normal" color="#111111" heading_typo=",17,,600,,,Solid,1.2,,," animation="fadeInUp" animation_delay="600"]
+
+
+
+
+Managing Director[/pl_heading]
+[pl_heading pagelayer-id="mb72EOKpBF0DbhoV"  heading_state="normal" color="#111111" heading_typo=",24,,600,,,Solid,1.2,,," animation="fadeInUp" animation_delay="600" heading_typo_mobile=",20,,,,,Solid,,,,"]
+
+
+
+
+Joseph Anderson[/pl_heading]
+[pl_btn pagelayer-id="KAPW3IxSt1wmFLgg"  text="Donate" align="left" type="pagelayer-btn-custom" size="pagelayer-btn-custom" btn_hover_delay="400" icon_position="pagelayer-btn-icon-right" icon_spacing="5" btn_bg_color="#feb209ff" btn_color="#ffffff" btn_bg_color_hover="" btn_typo=",16,,,,,Solid,,Uppercase,," btn_border_type="solid" btn_border_color="#42414f" btn_border_radius="0,0,0,0" btn_border_width="0,0,0,0" icon="fas fa-plus-circle" btn_custom_size="24" btn_hover="" ele_margin="15px,0px,0px,0px" ele_shadow=",,,,," ele_css="{{element}} .pagelayer-btn-holder{
+box-shadow: 3px 3px 5px 1px #333 !important;
+}" animation="fadeInUp" animation_delay="600" ele_padding_tablet="0em,0em,1em,0em" ele_padding_mobile="0em,0em,1em,0em"]
+[/pl_btn]
+[/pl_inner_col]
+[/pl_inner_row]
+[pl_btn pagelayer-id="83tXmrF6BzCCUISq"  text="All Events" align="center" type="pagelayer-btn-custom" size="pagelayer-btn-custom" btn_hover_delay="400" icon_position="pagelayer-btn-icon-right" icon_spacing="5" btn_bg_color="#feb209ff" btn_color="#ffffff" btn_bg_color_hover="" btn_typo=",16,,,,,Solid,,Uppercase,," btn_border_type="solid" btn_border_color="#42414f" btn_border_radius="0,0,0,0" btn_border_width="0,0,0,0" icon="fas fa-plus-circle" btn_custom_size="24" btn_hover="" ele_margin="15px,0px,0px,0px" ele_shadow=",,,,," ele_css="{{element}} .pagelayer-btn-holder{
+box-shadow: 3px 3px 5px 1px #333 !important;
+}" animation="fadeInUp" animation_delay="600"]
+[/pl_btn]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="tNrAKE6WSaYxq1fN"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_padding="3em,0em,3em,0em" ele_padding_mobile="1em,0em,0em,0em" ele_bg_type="color" ele_bg_color="#feb209ff" ele_margin="2em,0em,0em,0em" ele_margin_mobile="0px,0px,0px,0px"]
+[pl_col pagelayer-id="ygmoK6m05fKZAhne"  widget_space="15" overlay_hover_delay="400" ele_padding="0em,0em,0em,0em" col="7"]
+[pl_heading pagelayer-id="LWGDsPk8MPH720hd"  heading_state="normal" color="" align="left" heading_typo=",30,,700,,,Solid,2,Uppercase,," animation="fadeInUp" animation_delay="600" heading_typo_tablet=",30,,,,,Solid,,,," heading_typo_mobile=",25,,,,,Solid,1,,," ele_padding="0em,0em,0em,0em" ele_align="margin" ele_height="auto" ele_custom_width_tablet="NaNpx" ele_width_tablet="initial" ele_padding_tablet="0em,0em,0em,0em" ele_padding_mobile="0px,0px,0px,0px" ele_margin_tablet="-1em,0em,0em,0em" ele_margin_mobile="0px,0px,-11px,0px"]
+
+
+
+
+Save Homeless<span style="color: #fff;"> People</span>[/pl_heading]
+[pl_heading pagelayer-id="sbA0AwvuYjs76t5z"  heading_state="normal" color="#ffffffff" align="left" heading_typo=",20,,700,,,Solid,2,Uppercase,," animation="fadeInUp" animation_delay="600" heading_typo_tablet=",30,,,,,Solid,,,," heading_typo_mobile=",25,,,,,Solid,1.4,,," ele_padding="0em,0em,1em,0em" ele_align="margin" ele_height="auto" ele_custom_width_tablet="NaNpx" ele_width_tablet="initial" ele_padding_tablet="0em,0em,0em,0em" ele_padding_mobile="0px,0px,0px,0px" ele_margin_tablet="-1em,0em,0em,0em"]
+
+
+
+
+Help Kenyan Homeless<span style="color: #000;"> People to build house</span>[/pl_heading]
+[pl_inner_row pagelayer-id="iqTx6CRG7epRHRjb"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_margin_tablet="-1em,0em,0em,0em"]
+[pl_inner_col pagelayer-id="eyTLsx6YIvkdCSWQ"  widget_space="15" overlay_hover_delay="400" col_width_tablet="33" col_width="33" col_width_mobile="100"]
+[pl_btn pagelayer-id="CkL3N09HPBDqxOMx"  text="Goal :  $5000" align="left" type="pagelayer-btn-custom" size="pagelayer-btn-custom" btn_hover_delay="400" icon_position="pagelayer-btn-icon-right" icon_spacing="5" btn_bg_color="#feb209ff" btn_color="#ffffff" btn_bg_color_hover="" btn_typo=",16,,,,,Solid,,Uppercase,," btn_border_type="solid" btn_border_color="#42414f" btn_border_radius="0,0,0,0" btn_border_width="0,0,0,0" icon="" btn_custom_size="24" btn_hover="" ele_margin="15px,0px,0px,0px" ele_shadow=",,,,," ele_css="{{element}} .pagelayer-btn-holder{
+box-shadow: 3px 3px 5px 1px #333 !important;
+}" animation="fadeInUp" animation_delay="600"]
+[/pl_btn]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="cB5mdk7yBPD0qgnL"  widget_space="15" overlay_hover_delay="400" col_width_tablet="33" col_width="33" col_width_mobile="100"]
+[pl_btn pagelayer-id="QjutGXrcIyVUNRLP"  text="Collected :  $925" align="left" type="pagelayer-btn-custom" size="pagelayer-btn-custom" btn_hover_delay="400" icon_position="pagelayer-btn-icon-right" icon_spacing="5" btn_bg_color="#feb209ff" btn_color="#ffffff" btn_bg_color_hover="" btn_typo=",16,,,,,Solid,,Uppercase,," btn_border_type="solid" btn_border_color="#42414f" btn_border_radius="0,0,0,0" btn_border_width="0,0,0,0" icon="" btn_custom_size="24" btn_hover="" ele_margin="15px,0px,0px,0px" ele_shadow=",,,,," ele_css="{{element}} .pagelayer-btn-holder{
+box-shadow: 3px 3px 5px 1px #333 !important;
+}" animation="fadeInUp" animation_delay="600"]
+[/pl_btn]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="S6NslxRxhnXbPSDr"  widget_space="15" overlay_hover_delay="400" col_width_tablet="33" col_width="33" col_width_mobile="100"]
+[pl_btn pagelayer-id="GNFEPPMvqzXCGz1a"  text="Donation :  $8" align="left" type="pagelayer-btn-custom" size="pagelayer-btn-custom" btn_hover_delay="400" icon_position="pagelayer-btn-icon-right" icon_spacing="5" btn_bg_color="#feb209ff" btn_color="#ffffff" btn_bg_color_hover="" btn_typo=",16,,,,,Solid,,Uppercase,," btn_border_type="solid" btn_border_color="#42414f" btn_border_radius="0,0,0,0" btn_border_width="0,0,0,0" icon="" btn_custom_size="24" btn_hover="" ele_margin="15px,0px,0px,0px" ele_shadow=",,,,," ele_css="{{element}} .pagelayer-btn-holder{
+box-shadow: 3px 3px 5px 1px #333 !important;
+}" animation="fadeInUp" animation_delay="600"]
+[/pl_btn]
+[/pl_inner_col]
+[/pl_inner_row]
+[/pl_col]
+[pl_col pagelayer-id="a41YNUOwwUqAnyHT"  widget_space="15" overlay_hover_delay="400" ele_padding="0em,0em,0em,0em" col="5" content_pos="center" ele_margin_tablet="1px,1px,1px,1px" ele_padding_tablet="0px,0px,0px,0px" ele_margin_mobile="0px,0px,0px,0px" ele_padding_mobile="0px,0px,0px,0px"]
+[pl_countdown pagelayer-id="enaFQwXO9M4ERD5G"  time_zone="server" number_color="#ffffff" number_style=",50,,500,,,solid,,,," days="true" hours="true" minutes="true" seconds="true" show_label="true" days_label_text="Days" hours_label_text="Hours" minutes_label_text="Minutes" seconds_label_text="Seconds" font_color="#ffffff" cd_text_style=",18,,500,,,solid,,,," expired_text="Countdown Timer Expired" expired_color="#000000" expired_style=",50,,500,,,solid,,,," expired_align="center" display="block" block_color="#2b166100" date="2021-07-13" number_spacing="0px,0px,0px,0px" blocks_space="0px,0px,0px,0px" blocks_padding="2px,2px,2px,2px" number_style_mobile=",30,,,,,Solid,,,," number_style_tablet=",40,,,,,Solid,,,," ele_padding_tablet="1em,0em,0em,0em"]
+[/pl_countdown]
+[pl_btn pagelayer-id="FCbgVs5Y7DhGMbwv"  text="Donate" align="center" type="pagelayer-btn-custom" size="pagelayer-btn-custom" btn_hover_delay="400" icon_position="pagelayer-btn-icon-right" icon_spacing="5" btn_bg_color="#feb209ff" btn_color="#ffffff" btn_bg_color_hover="" btn_typo=",16,,,,,Solid,,Uppercase,," btn_border_type="solid" btn_border_color="#42414f" btn_border_radius="0,0,0,0" btn_border_width="0,0,0,0" icon="fas fa-plus-circle" btn_custom_size="24" btn_hover="" ele_margin="75px,0px,0px,0px" ele_shadow=",,,,," ele_css="{{element}} .pagelayer-btn-holder{
+box-shadow: 3px 3px 5px 1px #333 !important;
+}" animation="fadeInUp" animation_delay="600" ele_padding_tablet="1px,1px,1px,1px" ele_margin_tablet="2em,1em,0em,1em" ele_padding_mobile="0em,0em,1em,0em" ele_margin_mobile="15px,1px,1px,1px"]
+[/pl_btn]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="0lkEoA30i0uo2kvT"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_padding="4em,0em,0em,0em" ele_padding_mobile="20px,0px,30px,0px" ele_margin="0em,0em,0em,0em" ele_margin_mobile="0em,0em,0em,0em"]
+[pl_col pagelayer-id="DlWSztXaXzJEhKMj"  widget_space="8" overlay_hover_delay="400" col="12" animation="" animation_delay="600"]
+[pl_inner_row pagelayer-id="puK0hHAuIkA266fq"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100"]
+[pl_inner_col pagelayer-id="5ImY0pX3H2ZS0NCS"  widget_space="15" overlay_hover_delay="400"]
+[pl_heading pagelayer-id="OXFQkAw9EDao9Q1N"  heading_state="normal" color="" align="center" heading_typo=",30,,700,,,Solid,1,Uppercase,5," animation="fadeInUp" animation_delay="600" heading_typo_tablet=",30,,,,,Solid,,,," heading_typo_mobile=",25,,,,,Solid,,,," ele_padding="0em,32em,0em,4em" ele_align="margin" ele_height="auto" ele_custom_width_tablet="NaNpx" ele_width_tablet="initial" ele_padding_tablet="0em,0em,0em,0em" ele_padding_mobile="0px,0px,0px,0px" ele_margin_tablet="-1em,0em,0em,0em" align_tablet="center"]
+
+
+Charity<span style="color: #FEB209;"> Donors</span>[/pl_heading]
+[pl_text pagelayer-id="cB5bSbOYsrMU8PDR"  ele_padding="0em,32em,0em,4em" animation="fadeInUp" animation_delay="700" ele_padding_tablet="0px,20px,0px,20px" ele_padding_mobile="0px,0px,0px,0px"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p style="text-align: center; font-size: 13px;">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit est laborum. Aenaen massa, Cum soolis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus</p>[/pl_text]
+[/pl_inner_col]
+[/pl_inner_row]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="owEijgDX1fYV4nc7"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_margin="0px,0px,0px,0px" ele_padding="0em,0em,3em,0em"]
+[pl_col pagelayer-id="DKq2IyXniJaKd3Av"  widget_space="15" overlay_hover_delay="400" col_width="25" col_width_tablet="50" col_width_mobile="100"]
+[pl_service pagelayer-id="l2BCVGI468wSPSCc"  service_image="{{theme_url}}/images/donor01.jpg" service_image_size="full" service_alignment="top" service_vertical_alignment="top" img_bor_state="normal" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="Mia Jameson" heading_alignment="left" service_title_spacing="15,0,10,0" heading_state="normal" service_heading_color="" service_heading_typo=",20,,600,,,Solid,,,," heading_transition="400" service_text_alignment="left" service_btn_hover_delay="400"]
+
+
+<p>Syrian Refugee Crisis</p>[/pl_service]
+[pl_divider pagelayer-id="fMFpRpVmRtpm742y"  divider_style="solid" divider_color="#e5e1e1c2" divider_weight="1" divider_widht="100" divider_gap="10" divider_alignment="center" ele_margin="-15px,0px,0px,0px"]
+[/pl_divider]
+[pl_inner_row pagelayer-id="lianBD0d7JCA7VJs"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_margin="-28px,0px,0px,0px"]
+[pl_inner_col pagelayer-id="hn9qY8KrXhmydrxT"  widget_space="15" overlay_hover_delay="400" col_width="50"]
+[pl_heading pagelayer-id="hkCHIA6sDhfOxxWe"  heading_state="normal" color="#feb209ff"]
+
+
+$15000[/pl_heading]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="5OkkQZ5RLI6OXzot"  widget_space="15" overlay_hover_delay="400" col_width="50"]
+[pl_heading pagelayer-id="aPnj90k02YUcb3pP"  heading_state="normal" color="#969292ff" align="right" heading_typo=",15,,,,,Solid,,,,"]
+
+
+Donated[/pl_heading]
+[/pl_inner_col]
+[/pl_inner_row]
+[/pl_col]
+[pl_col pagelayer-id="00Dh1qdvbc6jo5Jm"  widget_space="15" overlay_hover_delay="400" col_width="25" col_width_tablet="50" col_width_mobile="100"]
+[pl_service pagelayer-id="6OhL2NqWZe8ZQXu8"  service_image="{{theme_url}}/images/donor02.jpg" service_image_size="full" service_alignment="top" service_vertical_alignment="top" img_bor_state="normal" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="Mike Carter" heading_alignment="left" service_title_spacing="15,0,10,0" heading_state="normal" service_heading_color="" service_heading_typo=",20,,600,,,Solid,,,," heading_transition="400" service_text_alignment="left" service_btn_hover_delay="400"]
+
+
+<p>Donate to our Good Causes</p>[/pl_service]
+[pl_divider pagelayer-id="sk94VeZ7GReD4tef"  divider_style="solid" divider_color="#e5e1e1c2" divider_weight="1" divider_widht="100" divider_gap="10" divider_alignment="center" ele_margin="-15px,0px,0px,0px"]
+[/pl_divider]
+[pl_inner_row pagelayer-id="poJA17Lvq1jDhqwb"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_margin="-28px,0px,0px,0px"]
+[pl_inner_col pagelayer-id="BPIH68bAyJmO1m3M"  widget_space="15" overlay_hover_delay="400" col_width="50"]
+[pl_heading pagelayer-id="oF68FiDvOAnSwkBP"  heading_state="normal" color="#feb209ff"]
+
+
+$18000[/pl_heading]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="cYLCaO3iiK60m0SB"  widget_space="15" overlay_hover_delay="400" col_width="50"]
+[pl_heading pagelayer-id="ajhQ9apgifmASo4t"  heading_state="normal" color="#969292ff" align="right" heading_typo=",15,,,,,Solid,,,,"]
+
+
+Donated[/pl_heading]
+[/pl_inner_col]
+[/pl_inner_row]
+[/pl_col]
+[pl_col pagelayer-id="X49ONokMb6lTMqCs"  widget_space="15" overlay_hover_delay="400" col_width="25" col_width_tablet="50" col_width_mobile="100"]
+[pl_service pagelayer-id="vDIuQbh4IXUxQE51"  service_image="{{theme_url}}/images/donor03.jpg" service_image_size="full" service_alignment="top" service_vertical_alignment="top" img_bor_state="normal" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="Kira Simon" heading_alignment="left" service_title_spacing="15,0,10,0" heading_state="normal" service_heading_color="" service_heading_typo=",20,,600,,,Solid,,,," heading_transition="400" service_text_alignment="left" service_btn_hover_delay="400"]
+
+
+<p>Education to Every Child</p>[/pl_service]
+[pl_divider pagelayer-id="A4Hy9JfJP0QNOR5e"  divider_style="solid" divider_color="#e5e1e1c2" divider_weight="1" divider_widht="100" divider_gap="10" divider_alignment="center" ele_margin="-15px,0px,0px,0px"]
+[/pl_divider]
+[pl_inner_row pagelayer-id="kU4pdA93g84k5ufU"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_margin="-28px,0px,0px,0px"]
+[pl_inner_col pagelayer-id="33jHvV3kANJnM17l"  widget_space="15" overlay_hover_delay="400" col_width="50"]
+[pl_heading pagelayer-id="EqJnABk62AhdXKAe"  heading_state="normal" color="#feb209ff"]
+
+
+$9000[/pl_heading]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="ytp55ZFq9EMMtaBA"  widget_space="15" overlay_hover_delay="400" col_width="50"]
+[pl_heading pagelayer-id="LaeC0GC0no2gcSXG"  heading_state="normal" color="#969292ff" align="right" heading_typo=",15,,,,,Solid,,,,"]
+
+
+Donated[/pl_heading]
+[/pl_inner_col]
+[/pl_inner_row]
+[/pl_col]
+[pl_col pagelayer-id="MPTWiYKdGmCg8pej"  widget_space="15" overlay_hover_delay="400" col_width="25" col_width_tablet="50" col_width_mobile="100"]
+[pl_service pagelayer-id="Ju5QRl0SpiHMV90X"  service_image="{{theme_url}}/images/donor04.jpg" service_image_size="full" service_alignment="top" service_vertical_alignment="top" img_bor_state="normal" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="John Becker" heading_alignment="left" service_title_spacing="15,0,10,0" heading_state="normal" service_heading_color="" service_heading_typo=",20,,600,,,Solid,,,," heading_transition="400" service_text_alignment="left" service_btn_hover_delay="400"]
+
+
+<p>Korian Flood Crisis</p>[/pl_service]
+[pl_divider pagelayer-id="FRnaz5Rn0HzCmmHf"  divider_style="solid" divider_color="#e5e1e1c2" divider_weight="1" divider_widht="100" divider_gap="10" divider_alignment="center" ele_margin="-15px,0px,0px,0px"]
+[/pl_divider]
+[pl_inner_row pagelayer-id="Y2AONHEaak0UgBqY"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_margin="-28px,0px,0px,0px"]
+[pl_inner_col pagelayer-id="F6kNAEyCVByZTkSw"  widget_space="15" overlay_hover_delay="400" col_width="50"]
+[pl_heading pagelayer-id="Nipr04XBohNZizU5"  heading_state="normal" color="#feb209ff"]
+
+
+$28000[/pl_heading]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="EwrvAg6i1JKSenFe"  widget_space="15" overlay_hover_delay="400" col_width="50"]
+[pl_heading pagelayer-id="OWzx8U65Eao2s4gM"  heading_state="normal" color="#969292ff" align="right" heading_typo=",15,,,,,Solid,,,,"]
+
+
+Donated[/pl_heading]
+[/pl_inner_col]
+[/pl_inner_row]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="Ph1CT2V4XN1soZSJ"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_type="color" ele_bg_color="#feb209ff" ele_padding="3em,0em,3em,0em"]
+[pl_col pagelayer-id="GJqpJDpmosPzHtPJ"  widget_space="15" overlay_hover_delay="400" col="2" content_pos="center" animation="fadeInUp" animation_delay="600"]
+[pl_heading pagelayer-id="BHTqEC8fUpYWvGA7"  heading_state="normal" color="#ffffffff" heading_typo=",65,,,,,Solid,0.8,Uppercase,," align_tablet="center" align_mobile="center"]
+
+
+
+
+He[/pl_heading]
+[pl_heading pagelayer-id="LF3Hlvo2kOXroBig"  heading_state="normal" color="#141313ff" heading_typo=",25,,700,,,Solid,0.8,Uppercase,," align_tablet="center" align_mobile="center"]
+
+
+
+
+lpers Hand[/pl_heading]
+[/pl_col]
+[pl_col pagelayer-id="75K4VwHADbqwJIJZ"  widget_space="15" overlay_hover_delay="400" col="6" content_pos="center"]
+[pl_text pagelayer-id="c2RXmWNb6Rhkp2xB"  ele_padding="0em,2em,0em,1em" animation="fadeInUp" animation_delay="600"]
+
+
+
+
+<p style="text-align: center; font-size: 13px;"><span style="color: rgb(255, 255, 255);">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit est laborum. Aenaen massa, Cum soolis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus sunt in culpa qui officia deserunt mollit est laborum. Aenaen massa</span></p>[/pl_text]
+[/pl_col]
+[pl_col pagelayer-id="cMB1iAFAq8w583hO"  widget_space="15" overlay_hover_delay="400" col="2" content_pos="center"]
+[pl_btn pagelayer-id="SobFZym0OsNhDpLK"  text="All Events" align="center" type="pagelayer-btn-custom" size="pagelayer-btn-custom" btn_hover_delay="400" icon_position="pagelayer-btn-icon-right" icon_spacing="5" btn_bg_color="#feb209ff" btn_color="#ffffff" btn_bg_color_hover="" btn_typo=",16,,,,,Solid,,Uppercase,," btn_border_type="solid" btn_border_color="#42414f" btn_border_radius="0,0,0,0" btn_border_width="0,0,0,0" icon="fas fa-plus-circle" btn_custom_size="24" btn_hover="" ele_margin="15px,0px,0px,0px" ele_shadow=",,,,," ele_css="{{element}} .pagelayer-btn-holder{
+box-shadow: 3px 3px 5px 1px #333 !important;
+}" animation="fadeInUp" animation_delay="600"]
+[/pl_btn]
+[/pl_col]
+[/pl_row]

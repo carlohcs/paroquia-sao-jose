@@ -1,0 +1,442 @@
+[pl_post_props pagelayer-id="6snb1qeJpQ4iWxJT"  post_title="About" post_name="about" post_status="publish" featured_image="" post_excerpt=""]
+[/pl_post_props]
+[pl_row pagelayer-id="c2iUKaWW7exhhs8W"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_type="image" ele_img_color="" ele_bg_color="" ele_bg_posx="center" ele_bg_posy="center" ele_bg_repeat="no-repeat" ele_bg_size="cover" ele_padding="240px,0px,90px,0px" overlay_transperancy="0.5" overlay_color="#000000ff" overlay_type="color" ele_padding_mobile="140px,0px,50px,0px" ele_padding_tablet="160px,0px,50px,0px" ele_margin="-7em,0em,0em,0em" ele_bg_attachment="scroll" ele_bg_img="{{theme_url}}/images/banner.jpg"]
+[pl_col pagelayer-id="1Woyn0vuCSZ4Au1l"  widget_space="15" overlay_hover_delay="400"]
+[pl_post_title pagelayer-id="SDlTxK2Dq8cCLBAG"  title_color="#f7f7f7ff" typo=",35,,600,,,Solid,,Uppercase,," animation="fadeInUp" animation_delay="600" typo_mobile=",25,,,,,Solid,,,," align="center"]
+[/pl_post_title]
+[pl_breadcrumb pagelayer-id="rPouToNiWuTDlEaR"  home="Home" alignment="center" separator=" » " separator_color="#ffffffff" breadcrumb_color="#fbfbfbff" cur_color="#f6f6f6ff" breadcrumb_hover="#ffb400ff" animation="fadeInUp" animation_delay="600"]
+[/pl_breadcrumb]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="M6CL1sZfwc97TWGX"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_padding_tablet="3em,0em,0em,0em"]
+[pl_col pagelayer-id="trGXFom5kjvp6f9k"  widget_space="15" overlay_hover_delay="400" ele_padding="0em,0em,0em,0em"]
+[pl_heading pagelayer-id="gb5r6tfR2aBberCd"  heading_state="normal" color="" align="center" heading_typo=",25,,600,,,Solid,1,Uppercase,5," animation="fadeInUp" animation_delay="600" heading_typo_tablet=",30,,,,,Solid,,,," heading_typo_mobile=",25,,,,,Solid,,,," ele_css="{{element}} .pagelayer-heading-holder span{
+font-size: 140px !important;
+    line-height: 1 !important;
+}
+@media screen and (max-width: 768px){
+{{element}} .pagelayer-heading-holder span{
+font-size: 120px !important;
+}
+}" ele_padding="2em,32em,0em,4em" ele_align="margin" ele_height="auto" ele_custom_width_tablet="NaNpx" ele_width_tablet="initial" ele_padding_tablet="0em,18em,0em,0em" ele_padding_mobile="1em,0em,0em,0em" ele_margin_tablet="-1em,0em,0em,0em"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About U<span style="color: #FFB400;">S</span>[/pl_heading]
+[pl_text pagelayer-id="q0MEYlPSdCMKkX4S"  ele_padding="0em,32em,2em,4em" animation="fadeInUp" animation_delay="700" ele_padding_tablet="0px,20px,0px,20px" ele_padding_mobile="0px,0px,0px,0px"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p style="text-align: center; font-size: 13px;">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit est laborum. Aenaen massa, Cum soolis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus</p>[/pl_text]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="IuenzvnHiO37G7Sm"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100"]
+[pl_col pagelayer-id="UUYprQBawo12BEbY"  widget_space="15" overlay_hover_delay="400" col="6"]
+[pl_image pagelayer-id="wSmji13BkNFs6dBz"  id="{{theme_url}}/images/home02.jpg" id-size="full" align="center" img_hover="normal" img_hover_delay="400" caption_color="#0986c0" animation="fadeInUp" animation_delay="600"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[/pl_image]
+[/pl_col]
+[pl_col pagelayer-id="hyZAy0pNTXQzU0qe"  widget_space="15" overlay_hover_delay="400" col="6" content_pos="center"]
+[pl_heading pagelayer-id="6GUyAc1V6HLYNiMQ"  heading_state="normal" color="#141515ff" align="center" heading_typo=",40,,600,,,Solid,1,Uppercase,," animation="fadeInUp" animation_delay="600" heading_typo_tablet=",30,,,,,Solid,,,," heading_typo_mobile=",25,,,,,Solid,,,," ele_margin="2em,0em,0em,0em" ele_margin_mobile="0em,0em,0em,0em"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About The[/pl_heading]
+[pl_heading pagelayer-id="2DTUwRQdXZi0zzQj"  heading_state="normal" color="#141515ff" align="center" heading_typo=",60,,600,,,Solid,1,Uppercase,," animation="fadeInUp" animation_delay="700" heading_typo_tablet=",35,,,,,Solid,,,," heading_typo_mobile=",30,,,,,Solid,,,,"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Knight Team[/pl_heading]
+[pl_text pagelayer-id="TZttkt4wYEcQvrAw"  ele_padding="0em,0em,0em,0em" animation="fadeInUp" animation_delay="700" ele_padding_tablet="0px,20px,0px,20px" ele_padding_mobile="0px,0px,0px,0px"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit est laborum. Aenaen massa, Cum soolis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligule eget dolor. Aenaen massa, Cum soolis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus</p>[/pl_text]
+[pl_text pagelayer-id="C3I5qM68RkRKSWh8"  ele_padding="0em,0em,0em,0em" animation="fadeInUp" animation_delay="700" ele_padding_tablet="0px,20px,0px,20px" ele_padding_mobile="0px,0px,0px,0px"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>[/pl_text]
+[pl_btn pagelayer-id="vTc4aaV6MKNnG4zD"  text="Read More" align="center" type="pagelayer-btn-custom" size="pagelayer-btn-custom" btn_hover_delay="400" icon_position="pagelayer-btn-icon-left" icon_spacing="5" btn_custom_size="24" btn_bg_color="" btn_color="#0c0b0bff" btn_bg_color_hover="" btn_border_type="solid" btn_border_color="#ffb400ff" btn_border_radius="0,0,0,0" btn_border_width="2,2,2,2" btn_typo=",16,,,,,Solid,,Uppercase,," btn_bor_hover="" btn_hover="" btn_color_hover="" animation="fadeInUp" animation_delay="700" animation_speed="slowest" align_mobile="left" btn_custom_size_mobile="20" btn_typo_mobile=",16,,,,,Solid,,,," align_tablet="center" ele_margin="1em,0em,1em,0em"]
+[/pl_btn]
+[pl_inner_row pagelayer-id="Av9H6Opca5PFAYnu"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100"]
+[pl_inner_col pagelayer-id="YpB31ZqXmtcMTNDm"  widget_space="15" overlay_hover_delay="400" col_width="50" col_width_mobile="100"]
+[pl_counter pagelayer-id="ObyOLZHQGGtNAoMn"  counter_start_number="1" counter_end_number="100" animation_duration="2000" counter_align="left" counter_text="Games Played" counter_text_color="#ffb400ff" counter_text_style=",22,,400,,,Solid,,,," counter_number_color="#0e0e0fff" counter_number_style=",50,,700,,,Solid,,,," counter_number_style_mobile=",35,,,,,Solid,,,," counter_number_style_tablet=",40,,,,,Solid,,,," animation="zoomIn" animation_delay="600" ele_padding_tablet="0px,0px,0px,0px" thousand_seperator_type=","]
+[/pl_counter]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="8USeR7M8O3gPMR5W"  widget_space="15" overlay_hover_delay="400" col_width="50"]
+[pl_counter pagelayer-id="gCGWN9VeCYMEPmSE"  counter_start_number="1" counter_end_number="10" animation_duration="2000" counter_align="left" counter_text="Coaches" counter_text_color="#ffb400ff" counter_text_style=",22,,400,,,Solid,,,," counter_number_color="#0e0e0fff" counter_number_style=",50,,700,,,Solid,,,," counter_number_style_mobile=",35,,,,,Solid,,,," counter_number_style_tablet=",40,,,,,Solid,,,," animation="zoomIn" animation_delay="600" ele_padding_tablet="0px,0px,0px,0px" thousand_seperator_type=","]
+[/pl_counter]
+[/pl_inner_col]
+[/pl_inner_row]
+[pl_inner_row pagelayer-id="JSPvxRq9O6zWdMje"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100"]
+[pl_inner_col pagelayer-id="c2WiLLkil4f0GANt"  widget_space="15" overlay_hover_delay="400" col_width="50" col_width_mobile="100"]
+[pl_counter pagelayer-id="qV1VZr8RtCvLDlbF"  counter_start_number="1" counter_end_number="20" animation_duration="2000" counter_align="left" counter_text="Trophies" counter_text_color="#ffb400ff" counter_text_style=",22,,400,,,Solid,,,," counter_number_color="#0e0e0fff" counter_number_style=",50,,700,,,Solid,,,," counter_number_style_mobile=",35,,,,,Solid,,,," counter_number_style_tablet=",40,,,,,Solid,,,," animation="zoomIn" animation_delay="600" ele_padding_tablet="0px,0px,0px,0px" thousand_seperator_type=","]
+[/pl_counter]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="w6HJPRSBPb6GqZC1"  widget_space="15" overlay_hover_delay="400" col_width="50"]
+[pl_counter pagelayer-id="MPMy9y9uNtWpKvVC"  counter_start_number="1" counter_end_number="80" animation_duration="2000" counter_align="left" counter_text="Members" counter_text_color="#ffb400ff" counter_text_style=",22,,400,,,Solid,,,," counter_number_color="#0e0e0fff" counter_number_style=",50,,700,,,Solid,,,," counter_number_style_mobile=",35,,,,,Solid,,,," counter_number_style_tablet=",40,,,,,Solid,,,," animation="zoomIn" animation_delay="600" ele_padding_tablet="0px,0px,0px,0px" thousand_seperator_type=","]
+[/pl_counter]
+[/pl_inner_col]
+[/pl_inner_row]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="ybCF4Ml5C5R26Lql"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_padding="2em,0em,0em,0em"]
+[pl_col pagelayer-id="gVLZsJAXTD0KrFN8"  widget_space="15" overlay_hover_delay="400" ele_padding="0em,0em,0em,0em"]
+[pl_heading pagelayer-id="HBWxMYLT64fsF3GA"  heading_state="normal" color="" align="center" heading_typo=",25,,600,,,Solid,1,Uppercase,5," animation="fadeInUp" animation_delay="600" heading_typo_tablet=",30,,,,,Solid,,,," heading_typo_mobile=",25,,,,,Solid,,,," ele_css="{{element}} .pagelayer-heading-holder span{
+font-size: 140px !important;
+    line-height: 1 !important;
+}
+@media screen and (max-width: 768px){
+{{element}} .pagelayer-heading-holder span{
+font-size: 120px !important;
+}
+}" ele_padding="0em,32em,0em,4em" ele_padding_mobile="0px,0px,0px,0px" ele_padding_tablet="0em,10em,0em,0em"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Team Squa<span style="color: #FFB400;">d</span>[/pl_heading]
+[pl_text pagelayer-id="A3sVmrqhjRakSqQ4"  ele_padding="0em,32em,1em,4em" animation="fadeInUp" animation_delay="700" ele_padding_tablet="0px,20px,0px,20px" ele_padding_mobile="0px,0px,0px,0px"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p style="text-align: center; font-size: 13px;">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit est laborum. Aenaen massa, Cum soolis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus</p>[/pl_text]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="jRKle1DrLOurY3WS"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="" row_shape_bottom_width="500" row_shape_bottom_height="100" ele_bg_type="image" ele_bg_color="" row_shape_position="bottom" row_shape_type_bottom="" ele_padding="5em,0em,5em,0em" ele_padding_mobile="30px,0px,30px,0px" ele_padding_tablet="50px,0px,50px,0px" ele_bg_attachment="scroll" ele_bg_posx="center" ele_bg_posy="bottom" ele_bg_repeat="no-repeat" ele_bg_size="cover" overlay_type="color" overlay_transperancy="0.8" overlay_color="#2a3133ff" ele_bg_img="{{theme_url}}/images/home-bg01.jpg"]
+[pl_col pagelayer-id="Veec3fUc9NuCX0Y3"  widget_space="15" overlay_hover_delay="400" col="12"]
+[pl_heading pagelayer-id="q9yziW8nyF3siwEj"  heading_state="normal" color="#ffffffff" align="center" heading_typo=",65,,600,,,Solid,1,Uppercase,5," animation="fadeInUp" animation_delay="600" heading_typo_tablet=",30,,,,,Solid,,,," heading_typo_mobile=",25,,,,,Solid,,,,"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Our Team <span style="color: #FFB400;">Squad</span>[/pl_heading]
+[pl_testimonial_slider pagelayer-id="vzRguLcj2dUkWAE8"  slide_items="4" slide_margin="10" arrows_bg="#6a6969" arraow_color="#ffffff" arraow_bg_size="20" arraow_bg_shape="20" slide_controls="pager" active_pager_color="#ffb400ff" animation="fadeInUp" animation_delay="700"]
+[pl_testimonial pagelayer-id="hPGBNy7JQAuhahMa"  image_position="top-position" alignment="center" author-spacing="20" avatar="{{theme_url}}/images/team01.jpg" testimonial_image_size="100" img_shape="circle" cite="David Scott" cite_color="#f8f9f9ff" cite_style=",20,,100,,,Solid,,,," designation="Defensive" designation_color="#ffb400ff" cite_designation_style=",16,,100,,,Solid,,,," cite_spacing="15,0,25,0"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[/pl_testimonial]
+[pl_testimonial pagelayer-id="hIZYx9UCBUlGQ3Jn"  image_position="top-position" alignment="center" author-spacing="20" avatar="{{theme_url}}/images/team02.jpg" testimonial_image_size="100" img_shape="circle" cite="James Watt" cite_color="#f8f9f9ff" cite_style=",20,,100,,,Solid,,,," designation="Attacker" designation_color="#ffb400ff" cite_designation_style=",16,,100,,,Solid,,,," cite_spacing="15,0,25,0"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[/pl_testimonial]
+[pl_testimonial pagelayer-id="9rZBSFm7uMbl79Cu"  image_position="top-position" alignment="center" author-spacing="20" avatar="{{theme_url}}/images/team03.jpg" testimonial_image_size="100" img_shape="circle" cite="Brad Hogg" cite_color="#f8f9f9ff" cite_style=",20,,100,,,Solid,,,," designation="Goal Keeper" designation_color="#ffb400ff" cite_designation_style=",16,,100,,,Solid,,,," cite_spacing="15,0,25,0"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[/pl_testimonial]
+[pl_testimonial pagelayer-id="IRShl7oU4BcR5ICV"  image_position="top-position" alignment="center" author-spacing="20" avatar="{{theme_url}}/images/team04.jpg" testimonial_image_size="100" img_shape="circle" cite="Mark Wagh" cite_color="#f8f9f9ff" cite_style=",20,,100,,,Solid,,,," designation="Defensive" designation_color="#ffb400ff" cite_designation_style=",16,,100,,,Solid,,,," cite_spacing="15,0,25,0"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[/pl_testimonial]
+[pl_testimonial pagelayer-id="zlwi7D5LAnphHKPx"  image_position="top-position" alignment="center" author-spacing="20" avatar="{{theme_url}}/images/team01.jpg" testimonial_image_size="100" img_shape="circle" cite="David Scott" cite_color="#f8f9f9ff" cite_style=",20,,100,,,Solid,,,," designation="Goal Keeper" designation_color="#ffb400ff" cite_designation_style=",16,,100,,,Solid,,,," cite_spacing="15,0,25,0"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[/pl_testimonial]
+[/pl_testimonial_slider]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="YTheEtvx9x6JadyB"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_padding="3em,0em,0em,0em"]
+[pl_col pagelayer-id="bl5wIxq0GIjrr2jK"  widget_space="15" overlay_hover_delay="400" ele_padding="0em,0em,0em,0em"]
+[pl_heading pagelayer-id="OR1s7JVv4hVJsGUq"  heading_state="normal" color="" align="center" heading_typo=",25,,600,,,Solid,1,Uppercase,5," animation="fadeInUp" animation_delay="600" heading_typo_tablet=",30,,,,,Solid,,,," heading_typo_mobile=",25,,,,,Solid,,,," ele_css="{{element}} .pagelayer-heading-holder span{
+font-size: 140px !important;
+    line-height: 1 !important;
+}
+@media screen and (max-width: 768px){
+{{element}} .pagelayer-heading-holder span{
+font-size: 120px !important;
+}
+}" ele_padding="0em,4em,0em,32em" ele_padding_mobile="0px,0px,0px,0px" ele_padding_tablet="0em,10em,0em,0em"]
+Skill<span style="color: #FFB400;">s</span>[/pl_heading]
+[pl_text pagelayer-id="7YWak8ewZJ8PTrzj"  ele_padding="0em,4em,1em,32em" animation="fadeInUp" animation_delay="700" ele_padding_tablet="0px,20px,0px,20px" ele_padding_mobile="0px,0px,0px,0px"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p style="text-align: center; font-size: 13px;">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit est laborum. Aenaen massa, Cum soolis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus</p>[/pl_text]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="Y4VfGTujeuFviRin"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_padding="0em,0em,2em,0em"]
+[pl_col pagelayer-id="jibiVT6eW34t6Nk8"  widget_space="15" overlay_hover_delay="400" col="4"]
+[pl_text pagelayer-id="h2ma0BKztiTpyYFU"  ele_padding="0px,0px,0px,0px" animation="fadeInUp" animation_delay="600" ele_padding_tablet="0px,20px,0px,0px" ele_padding_mobile="0px,0px,0px,0px"]
+<p>Excepteur sint occaecat cupidatat non proident laborum. Interdum et malesuada fames ac ante ipsum primis in faucibus. In hac habitasse platea dictumst. In euismod porttitor ante ac hendrerit. Proin vehicula quis odio eu faucibus. Nullam at urna metus.</p>[/pl_text]
+[pl_progress pagelayer-id="jxef32sdVsMB4dQZ"  progress_type="" progress_color="#ffb400ff" progress_height="10" title="Crossing" title_color="" title_style=",20,,100,,,Solid,1.5,,," progress_text_color="#0d0d0dff" progress_percentage="65" progress_percent_color="#100f0fff" progress_radius="10,0,0,10" ele_css="{{element}} .pagelayer-progress-container{
+border-radius: 10px;
+}
+{{element}} .pagelayer-progress-percent{
+position: absolute;
+display: block;
+font-size: 20px;
+line-height: 1;
+right: 0;
+margin-top: -28px;
+}"]
+[/pl_progress]
+[pl_progress pagelayer-id="fI5MYPgwnJZ4GXUF"  progress_type="" progress_color="#ffb400ff" progress_height="10" title="Control" title_color="" title_style=",20,,100,,,Solid,1.5,,," progress_text_color="#0d0d0dff" progress_percentage="70" progress_percent_color="#100f0fff" progress_radius="10,0,0,10" ele_css="{{element}} .pagelayer-progress-container{
+border-radius: 10px;
+}
+{{element}} .pagelayer-progress-percent{
+position: absolute;
+display: block;
+font-size: 20px;
+line-height: 1;
+right: 0;
+margin-top: -28px;
+}"]
+[/pl_progress]
+[pl_progress pagelayer-id="o2Cv8h2NveaaGX5e"  progress_type="" progress_color="#ffb400ff" progress_height="10" title="Attacking" title_color="" title_style=",20,,100,,,Solid,1.5,,," progress_text_color="#0d0d0dff" progress_percentage="72" progress_percent_color="#100f0fff" progress_radius="10,0,0,10" ele_css="{{element}} .pagelayer-progress-container{
+border-radius: 10px;
+}
+{{element}} .pagelayer-progress-percent{
+position: absolute;
+display: block;
+font-size: 20px;
+line-height: 1;
+right: 0;
+margin-top: -28px;
+}"]
+[/pl_progress]
+[/pl_col]
+[pl_col pagelayer-id="C03BWB4jU4ttmOFs"  widget_space="15" overlay_hover_delay="400" col="4" ele_margin_tablet="1em,0em,0em,0em"]
+[pl_text pagelayer-id="mg5tvOWhchhFUXR0"  ele_padding="0px,0px,0px,0px" animation="fadeInUp" animation_delay="600" ele_padding_tablet="0px,20px,0px,0px" ele_padding_mobile="0px,0px,0px,0px"]
+<p>Excepteur sint occaecat cupidatat non proident laborum. Interdum et malesuada fames ac ante ipsum primis in faucibus. In hac habitasse platea dictumst. In euismod porttitor ante ac hendrerit. Proin vehicula quis odio eu faucibus. Nullam at urna metus.</p>[/pl_text]
+[pl_progress pagelayer-id="56jZZRdWn6HRUv9q"  progress_type="" progress_color="#ffb400ff" progress_height="10" title="Penalties" title_color="" title_style=",20,,100,,,Solid,1.5,,," progress_text_color="#0d0d0dff" progress_percentage="45" progress_percent_color="#100f0fff" progress_radius="10,0,0,10" ele_css="{{element}} .pagelayer-progress-container{
+border-radius: 10px;
+}
+{{element}} .pagelayer-progress-percent{
+position: absolute;
+display: block;
+font-size: 20px;
+line-height: 1;
+right: 0;
+margin-top: -28px;
+}"]
+[/pl_progress]
+[pl_progress pagelayer-id="UeFigQlXib11xCwX"  progress_type="" progress_color="#ffb400ff" progress_height="10" title="Passing" title_color="" title_style=",20,,100,,,Solid,1.5,,," progress_text_color="#0d0d0dff" progress_percentage="55" progress_percent_color="#100f0fff" progress_radius="10,0,0,10" ele_css="{{element}} .pagelayer-progress-container{
+border-radius: 10px;
+}
+{{element}} .pagelayer-progress-percent{
+position: absolute;
+display: block;
+font-size: 20px;
+line-height: 1;
+right: 0;
+margin-top: -28px;
+}"]
+[/pl_progress]
+[pl_progress pagelayer-id="OcLvZuBUxiVQKxXn"  progress_type="" progress_color="#ffb400ff" progress_height="10" title="Dribbling" title_color="" title_style=",20,,100,,,Solid,1.5,,," progress_text_color="#0d0d0dff" progress_percentage="65" progress_percent_color="#100f0fff" progress_radius="10,0,0,10" ele_css="{{element}} .pagelayer-progress-container{
+border-radius: 10px;
+}
+{{element}} .pagelayer-progress-percent{
+position: absolute;
+display: block;
+font-size: 20px;
+line-height: 1;
+right: 0;
+margin-top: -28px;
+}"]
+[/pl_progress]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="WYebxg29w2mt6EJV"  stretch="full" col_gap="0" width_content="full" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_padding="3em,0em,0em,0em" ele_padding_mobile="3em,0em,1em,0em" ele_padding_tablet="3em,0em,2em,0em"]
+[pl_col pagelayer-id="fyr7YS4ZvirWImKu"  widget_space="15" overlay_hover_delay="400"]
+[pl_image_slider pagelayer-id="fla1JKGQnsVy1EX0"  size="full" slide_items="4" pause="5000" speed="800" loop="true" auto="true" auto_hover="true" arrows_bg="#6a6969" arraow_color="#ffffff" arraow_bg_size="20" arraow_bg_shape="20" ids="{{theme_url}}/images/post01.jpg,{{theme_url}}/images/post04.jpg,{{theme_url}}/images/gallery01.jpg,{{theme_url}}/images/post02.jpg,{{theme_url}}/images/post03.jpg,{{theme_url}}/images/gallery02.jpg,{{theme_url}}/images/post02.jpg,{{theme_url}}/images/home01.jpg,{{theme_url}}/images/gallery03.jpg" controls="none"]
+[/pl_image_slider]
+[/pl_col]
+[/pl_row]

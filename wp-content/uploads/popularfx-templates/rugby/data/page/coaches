@@ -1,0 +1,168 @@
+[pl_post_props pagelayer-id="Hz9GYa2rx8RtXfm2"  post_title="Coaches" post_name="coaches" post_status="publish" featured_image="" post_excerpt=""]
+[/pl_post_props]
+[pl_row pagelayer-id="4j4i6lNbepWLnNGd"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_type="image" ele_img_color="" ele_bg_color="" ele_bg_posx="center" ele_bg_posy="center" ele_bg_repeat="no-repeat" ele_bg_size="cover" ele_padding="240px,0px,90px,0px" overlay_transperancy="0.5" overlay_color="#000000ff" overlay_type="color" ele_padding_mobile="140px,0px,50px,0px" ele_padding_tablet="160px,0px,50px,0px" ele_margin="-7em,0em,0em,0em" ele_bg_attachment="scroll" ele_bg_img="http://sitepad.local/sitepad-data/themes/rugby/images/banner.jpg"]
+[pl_col pagelayer-id="0Jb6m2oMpdOLxzEs"  widget_space="15" overlay_hover_delay="400"]
+[pl_post_title pagelayer-id="bCivI23aotawX9Mx"  title_color="#f7f7f7ff" typo=",35,,600,,,Solid,,Uppercase,," animation="fadeInUp" animation_delay="600" typo_mobile=",25,,,,,Solid,,,," align="center"]
+[/pl_post_title]
+[pl_breadcrumb pagelayer-id="SDUrI1CLfT93OnKr"  home="Home" alignment="center" separator=" » " separator_color="#ffffffff" breadcrumb_color="#fbfbfbff" cur_color="#f6f6f6ff" breadcrumb_hover="#ffb400ff" animation="fadeInUp" animation_delay="600"]
+[/pl_breadcrumb]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="M3mHcMVk6zgL1K7y"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_padding="4em,0em,3em,0em" ele_padding_tablet="3em,0em,0em,0em" ele_padding_mobile="2em,0em,0em,0em"]
+[pl_col pagelayer-id="hNanww6FuPLykp38"  widget_space="15" overlay_hover_delay="400" col="6" content_pos="center" ele_padding_tablet="0px,0px,0px,20px" ele_padding_mobile="0px,15px,0px,15px"]
+[pl_heading pagelayer-id="FB5tw3QJwBSYkku7"  heading_state="normal" color="#ffb400ff" align="left" heading_typo="Montserrat,45,,600,,,Solid,1.2,Uppercase,," animation="fadeInUp" animation_delay="600"]
+
+
+
+
+Mario[/pl_heading]
+[pl_heading pagelayer-id="tzbrEerOb5Wj40PU"  heading_state="normal" color="" align="left" heading_typo="Montserrat,45,,,,,Solid,1,Uppercase,," animation="fadeInUp" animation_delay="600" heading_typo_tablet=",30,,,,,Solid,,,," heading_typo_mobile=",25,,,,,Solid,,,,"]
+
+
+
+
+Johnson[/pl_heading]
+[pl_heading pagelayer-id="tAJvBbVV3ooRiASW"  heading_state="normal" color="" align="left" heading_typo="Montserrat,16,,600,,,Solid,1,Uppercase,," animation="fadeInUp" animation_delay="600" heading_typo_tablet=",30,,,,,Solid,,,," heading_typo_mobile=",25,,,,,Solid,,,,"]
+
+
+
+
+Senior Team Trainer[/pl_heading]
+[pl_text pagelayer-id="qoUeT2FRE79KTGqh"  ele_padding="0em,0em,0em,0em" animation="fadeInUp" animation_delay="600" ele_padding_tablet="0px,20px,0px,0px" ele_padding_mobile="0px,0px,0px,0px"]
+
+
+
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>[/pl_text]
+[pl_text pagelayer-id="BW2mguGXREKVuade"  ele_padding="0em,0em,0em,0em" animation="fadeInUp" animation_delay="600" ele_padding_tablet="0px,20px,0px,0px" ele_padding_mobile="0px,0px,0px,0px"]
+
+
+
+
+<p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>[/pl_text]
+[pl_social_grp pagelayer-id="B6bLJYJHf5C4a8np"  align="left" group_layout="pagelayer-btn-grp-horizontal" icon_spacing="3" icon_size="20" color_scheme="" icon_color="#fcfcfcff" social_hover_delay="400" icon_color_hover="#ffffff" bg_shape="pagelayer-social-shape-circle" bg_size="10" icon_bg_color="#ffb400ff" icon_bg_color_hover="#0f1010ff" social_hover="hover" animation="fadeInUp" animation_delay="700"]
+[pl_social pagelayer-id="MgjKfYB272BXV2pT"  icon="fab fa-facebook-f" social_url="https://facebook.com/sitepad"]
+[/pl_social]
+[pl_social pagelayer-id="iInI9DrNJdS4Y6vl"  icon="fab fa-twitter" social_url="https://twitter.com/sitepad_editor"]
+[/pl_social]
+[pl_social pagelayer-id="HAWpE7eLxqrTtcdK"  icon="fab fa-google-plus-g" social_url="https://plus.google.com/sitepad"]
+[/pl_social]
+[/pl_social_grp]
+[/pl_col]
+[pl_col pagelayer-id="37RjcD3DW26L3RkE"  widget_space="15" overlay_hover_delay="400" col="6"]
+[pl_image pagelayer-id="yOLifQ3RZk11jcUj"  id="http://sitepad.local/sitepad-data/themes/rugby/images/trainer.png" id-size="full" align="center" img_hover="normal" img_hover_delay="400" caption_color="#0986c0" max-width_tablet="70" animation="fadeInRight" animation_delay="600" max-width="100" custom_size="100x100"]
+
+
+
+
+[/pl_image]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="uMq3VeJZASMYUq3n"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_padding_tablet="3em,0em,0em,0em" ele_bg_type="color" ele_bg_color="#f3f4f4ff"]
+[pl_col pagelayer-id="L1Ft8J62pVocBKpx"  widget_space="15" overlay_hover_delay="400" ele_padding="0em,0em,0em,0em"]
+[pl_heading pagelayer-id="dViAHuZUZ2mwEhq2"  heading_state="normal" color="" align="center" heading_typo=",25,,600,,,Solid,1,Uppercase,5," animation="fadeInUp" animation_delay="600" heading_typo_tablet=",30,,,,,Solid,,,," heading_typo_mobile=",25,,,,,Solid,,,," ele_css="{{element}} .pagelayer-heading-holder span{
+font-size: 140px !important;
+    line-height: 1 !important;
+}
+@media screen and (max-width: 768px){
+{{element}} .pagelayer-heading-holder span{
+font-size: 120px !important;
+}
+}" ele_padding="2em,4em,0em,32em" ele_align="margin" ele_height="auto" ele_custom_width_tablet="NaNpx" ele_width_tablet="initial" ele_padding_tablet="0em,18em,0em,0em" ele_padding_mobile="1em,0em,0em,0em" ele_margin_tablet="-1em,0em,0em,0em"]
+
+
+
+
+Coache<span style="color: #FFB400;">S</span>[/pl_heading]
+[pl_text pagelayer-id="h4XqVC62dYml22YD"  ele_padding="0em,4em,0em,32em" animation="fadeInUp" animation_delay="700" ele_padding_tablet="0px,20px,0px,20px" ele_padding_mobile="0px,0px,0px,0px"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p style="text-align: center; font-size: 13px;">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit est laborum. Aenaen massa, Cum soolis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus</p>[/pl_text]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="6KC1wYkdhKd6YqED"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_type="color" ele_bg_color="#f3f4f4ff" ele_padding="0em,0em,3em,0em"]
+[pl_col pagelayer-id="ljJdNuTieml595Gg"  widget_space="15" overlay_hover_delay="400" col="2" animation="fadeInUp" animation_delay="600"]
+[pl_service pagelayer-id="Wjv1acWrRmMaYcos"  service_image="http://sitepad.local/sitepad-data/themes/rugby/images/staff02.jpg" service_image_size="full" service_alignment="top" service_vertical_alignment="top" img_bor_state="normal" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="Manager" heading_alignment="center" service_title_spacing="35,0,15,0" heading_state="normal" service_heading_color="" service_heading_typo=",18,,400,,,Solid,,,," heading_transition="400" service_text_alignment="center" service_btn_hover_delay="400" service_content_spacing="0,15,0,15" ele_bg_type="color" ele_bg_color="#ffffffff" ele_padding="0px,0px,25px,0px"]
+
+
+<p><strong style="font-size: 22px;">PETER FLAGG</strong></p>
+<p>Eu aut lorem cernantur, occaecat dolor mandaremus consequat. Do labore excepteur, dolor id admodum.</p>[/pl_service]
+[pl_social_grp pagelayer-id="eT5nAE3i45W4dxny"  align="center" group_layout="pagelayer-btn-grp-horizontal" icon_spacing="3" icon_size="20" color_scheme="" icon_color="#fcfcfcff" social_hover_delay="400" icon_color_hover="#ffb400ff" bg_shape="pagelayer-social-shape-circle" bg_size="10" icon_bg_color="#ffb400ff" icon_bg_color_hover="#ffffffff" social_hover="hover" ele_margin="-15em,0em,0em,0em" icon_border_type_hover="solid" icon_border_color_hover="#ffb400ff" icon_border_width_hover="2,2,2,2" icon_border_type="solid" icon_border_color="#ffffffff" icon_border_width="2,2,2,2" ele_margin_tablet="-12em,0em,0em,0em" ele_margin_mobile="-13.7em,0em,0em,0em"]
+[pl_social pagelayer-id="BlgbETaP9dhyPFHi"  icon="fab fa-facebook-f" social_url="https://facebook.com/sitepad"]
+[/pl_social]
+[pl_social pagelayer-id="sj1HjY7XHeN8faKe"  icon="fab fa-twitter" social_url="https://twitter.com/sitepad_editor"]
+[/pl_social]
+[pl_social pagelayer-id="009F8tEDHwS5t8rc"  icon="fab fa-google-plus-g" social_url="https://plus.google.com/sitepad"]
+[/pl_social]
+[/pl_social_grp]
+[/pl_col]
+[pl_col pagelayer-id="4S08rlOKbgJekLGU"  widget_space="15" overlay_hover_delay="400" col="2" animation="fadeInUp" animation_delay="700"]
+[pl_service pagelayer-id="Htu2xwg6V66LskVW"  service_image="http://sitepad.local/sitepad-data/themes/rugby/images/client1.jpg" service_image_size="full" service_alignment="top" service_vertical_alignment="top" img_bor_state="normal" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="Trainer" heading_alignment="center" service_title_spacing="35,0,15,0" heading_state="normal" service_heading_color="" service_heading_typo=",18,,400,,,Solid,,,," heading_transition="400" service_text_alignment="center" service_btn_hover_delay="400" service_content_spacing="0,15,0,15" ele_bg_type="color" ele_bg_color="#ffffffff" ele_padding="0px,0px,25px,0px"]
+
+
+
+
+<p><strong style="font-size: 22px;">HANNA ROBERTS</strong></p>
+<p>Eu aut lorem cernantur, occaecat dolor mandaremus consequat. Do labore excepteur, dolor id admodum.</p>[/pl_service]
+[pl_social_grp pagelayer-id="TPrR8UvvW89y7v08"  align="center" group_layout="pagelayer-btn-grp-horizontal" icon_spacing="3" icon_size="20" color_scheme="" icon_color="#fcfcfcff" social_hover_delay="400" icon_color_hover="#ffb400ff" bg_shape="pagelayer-social-shape-circle" bg_size="10" icon_bg_color="#ffb400ff" icon_bg_color_hover="#ffffffff" social_hover="hover" ele_margin="-15em,0em,0em,0em" icon_border_type_hover="solid" icon_border_color_hover="#ffb400ff" icon_border_width_hover="2,2,2,2" icon_border_type="solid" icon_border_color="#ffffffff" icon_border_width="2,2,2,2" ele_margin_tablet="-12em,0em,0em,0em" ele_margin_mobile="-13.7em,0em,0em,0em"]
+[pl_social pagelayer-id="3zQmhhHabABJMk7u"  icon="fab fa-facebook-f" social_url="https://facebook.com/sitepad"]
+[/pl_social]
+[pl_social pagelayer-id="vO8gWG64wQbnWSD9"  icon="fab fa-twitter" social_url="https://twitter.com/sitepad_editor"]
+[/pl_social]
+[pl_social pagelayer-id="mdJOXF1Fdb83Z0oH"  icon="fab fa-google-plus-g" social_url="https://plus.google.com/sitepad"]
+[/pl_social]
+[/pl_social_grp]
+[/pl_col]
+[pl_col pagelayer-id="qF9VWkmDt3Mdw49p"  widget_space="15" overlay_hover_delay="400" col="2" animation="fadeInUp" animation_delay="700" animation_speed="slow"]
+[pl_service pagelayer-id="OGI7Wbm0VICIOfIH"  service_image="http://sitepad.local/sitepad-data/themes/rugby/images/client2.jpg" service_image_size="full" service_alignment="top" service_vertical_alignment="top" img_bor_state="normal" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="Sr. Trainer" heading_alignment="center" service_title_spacing="35,0,15,0" heading_state="normal" service_heading_color="" service_heading_typo=",18,,400,,,Solid,,,," heading_transition="400" service_text_alignment="center" service_btn_hover_delay="400" service_content_spacing="0,15,0,15" ele_bg_type="color" ele_bg_color="#ffffffff" ele_padding="0px,0px,25px,0px"]
+
+
+
+
+<p><strong style="font-size: 22px;">MARK SMITH</strong></p>
+<p>Eu aut lorem cernantur, occaecat dolor mandaremus consequat. Do labore excepteur, dolor id admodum.</p>[/pl_service]
+[pl_social_grp pagelayer-id="r02WWwBURiQWilx3"  align="center" group_layout="pagelayer-btn-grp-horizontal" icon_spacing="3" icon_size="20" color_scheme="" icon_color="#fcfcfcff" social_hover_delay="400" icon_color_hover="#ffb400ff" bg_shape="pagelayer-social-shape-circle" bg_size="10" icon_bg_color="#ffb400ff" icon_bg_color_hover="#ffffffff" social_hover="hover" ele_margin="-15em,0em,0em,0em" icon_border_type_hover="solid" icon_border_color_hover="#ffb400ff" icon_border_width_hover="2,2,2,2" icon_border_type="solid" icon_border_color="#ffffffff" icon_border_width="2,2,2,2" ele_margin_tablet="-12em,0em,0em,0em" ele_margin_mobile="-13.7em,0em,0em,0em"]
+[pl_social pagelayer-id="SwFGtvwF2FACZg7F"  icon="fab fa-facebook-f" social_url="https://facebook.com/sitepad"]
+[/pl_social]
+[pl_social pagelayer-id="9wZXallQfLXzB6um"  icon="fab fa-twitter" social_url="https://twitter.com/sitepad_editor"]
+[/pl_social]
+[pl_social pagelayer-id="bAnk7NWgnLnXNzLM"  icon="fab fa-google-plus-g" social_url="https://plus.google.com/sitepad"]
+[/pl_social]
+[/pl_social_grp]
+[/pl_col]
+[pl_col pagelayer-id="eWIGOd8Fre6CV7ik"  widget_space="15" overlay_hover_delay="400" col="2" animation="fadeInUp" animation_delay="700" animation_speed="slowest"]
+[pl_service pagelayer-id="YLmNrnULFi03PImQ"  service_image="http://sitepad.local/sitepad-data/themes/rugby/images/client4.jpg" service_image_size="full" service_alignment="top" service_vertical_alignment="top" img_bor_state="normal" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="Fitness Instructor" heading_alignment="center" service_title_spacing="35,0,15,0" heading_state="normal" service_heading_color="" service_heading_typo=",18,,400,,,Solid,,,," heading_transition="400" service_text_alignment="center" service_btn_hover_delay="400" service_content_spacing="0,15,0,15" ele_bg_type="color" ele_bg_color="#ffffffff" ele_padding="0px,0px,25px,0px"]
+
+
+
+
+<p><strong style="font-size: 22px;">ROSE ALBERT</strong></p>
+<p>Eu aut lorem cernantur, occaecat dolor mandaremus consequat. Do labore excepteur, dolor id admodum.</p>[/pl_service]
+[pl_social_grp pagelayer-id="XTb0yxzkPwRfeNWg"  align="center" group_layout="pagelayer-btn-grp-horizontal" icon_spacing="3" icon_size="20" color_scheme="" icon_color="#fcfcfcff" social_hover_delay="400" icon_color_hover="#ffb400ff" bg_shape="pagelayer-social-shape-circle" bg_size="10" icon_bg_color="#ffb400ff" icon_bg_color_hover="#ffffffff" social_hover="hover" ele_margin="-15em,0em,0em,0em" icon_border_type_hover="solid" icon_border_color_hover="#ffb400ff" icon_border_width_hover="2,2,2,2" icon_border_type="solid" icon_border_color="#ffffffff" icon_border_width="2,2,2,2" ele_margin_tablet="-12em,0em,0em,0em" ele_margin_mobile="-13.7em,0em,0em,0em"]
+[pl_social pagelayer-id="022I2LSXBhF02Tzw"  icon="fab fa-facebook-f" social_url="https://facebook.com/sitepad"]
+[/pl_social]
+[pl_social pagelayer-id="bj223wZVLGro2TqM"  icon="fab fa-twitter" social_url="https://twitter.com/sitepad_editor"]
+[/pl_social]
+[pl_social pagelayer-id="xLZLAaLfwRvBqSVV"  icon="fab fa-google-plus-g" social_url="https://plus.google.com/sitepad"]
+[/pl_social]
+[/pl_social_grp]
+[/pl_col]
+[/pl_row]

@@ -1,0 +1,161 @@
+[pl_row pagelayer-id="n5h740g4nHe3tkYM"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_type="image" ele_img_color="" ele_bg_color="" ele_bg_posx="center" ele_bg_posy="center" ele_bg_repeat="no-repeat" ele_bg_size="cover" ele_padding="240px,0px,90px,0px" overlay_transperancy="0.5" overlay_color="#000000ff" overlay_type="color" ele_padding_mobile="140px,0px,50px,0px" ele_padding_tablet="160px,0px,50px,0px" ele_margin="-7em,0em,0em,0em" ele_bg_attachment="scroll" ele_bg_img="{{theme_url}}/images/banner.jpg"]
+[pl_col pagelayer-id="4Kwqd3imbOIy5QbS"  widget_space="15" overlay_hover_delay="400"]
+[pl_post_title pagelayer-id="CSIV4Gc40Sgcv1YE"  title_color="#f7f7f7ff" typo=",35,,600,,,Solid,,Uppercase,," animation="fadeInUp" animation_delay="600" typo_mobile=",25,,,,,Solid,,,," align="center"]
+[/pl_post_title]
+[pl_breadcrumb pagelayer-id="wEnkzYxtLgap2JkA"  home="Home" alignment="center" separator=" » " separator_color="#ffffffff" breadcrumb_color="#fbfbfbff" cur_color="#f6f6f6ff" breadcrumb_hover="#ffb400ff" animation="fadeInUp" animation_delay="600"]
+[/pl_breadcrumb]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="LOc1a4x3AuMcsjX4"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_padding_tablet="3em,0em,0em,0em"]
+[pl_col pagelayer-id="k0U0Hd7XjhSCD5WH"  widget_space="15" overlay_hover_delay="400" ele_padding="0em,0em,0em,0em"]
+[pl_heading pagelayer-id="3JPuiYcGvOhs7SaO"  heading_state="normal" color="" align="center" heading_typo=",25,,600,,,Solid,1,Uppercase,5," animation="fadeInUp" animation_delay="600" heading_typo_tablet=",30,,,,,Solid,,,," heading_typo_mobile=",25,,,,,Solid,,,," ele_css="{{element}} .pagelayer-heading-holder span{
+font-size: 140px !important;
+    line-height: 1 !important;
+}
+@media screen and (max-width: 768px){
+{{element}} .pagelayer-heading-holder span{
+font-size: 120px !important;
+}
+}" ele_padding="2em,4em,0em,4em" ele_align="margin" ele_height="auto" ele_custom_width_tablet="NaNpx" ele_width_tablet="initial" ele_padding_tablet="0em,18em,0em,0em" ele_padding_mobile="1em,0em,0em,0em" ele_margin_tablet="-1em,0em,0em,0em"]
+
+Contact U<span style="color: #FFB400;">S</span>[/pl_heading]
+[pl_text pagelayer-id="8EdX6YBNFAvP1B64"  ele_padding="0em,15em,1em,15em" animation="fadeInUp" animation_delay="700" ele_padding_tablet="0px,20px,0px,20px" ele_padding_mobile="0px,0px,0px,0px"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p style="text-align: center; font-size: 13px;">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit est laborum. Aenaen massa, Cum soolis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus</p>[/pl_text]
+[pl_contact pagelayer-id="g7PosElwRQzbua6I"  form="contact-form" name="Contact Form" form_position="center" space_label=",,10," input_padding="10,10" radio_padding="10,10" field_hover_delay="400" submit="Send" type="pagelayer-btn-custom" size="pagelayer-btn-small" btn_hover_delay="400" icon_position="pagelayer-btn-icon-left" icon_spacing="5" form_placeholder_color="" placeholder_typo=",14,,400,,,Solid,,,," input_height="22" form_input_color="#050505ff" form_input_bg="" field_border_color="#40404240" field_border_width="1,1,1,1" field_border_radius="0,0,0,0" btn_typo=",14,,,,,Solid,,Uppercase,," btn_bg_color="#ffb400ff" btn_color="#ffffffff" btn_border_type="solid" btn_border_color="#42414f" btn_border_width="0,0,0,0" btn_border_radius="0,0,0,0" animation="fadeInUp" animation_delay="800" animation_speed="slowest" con_post_id="6030" input_state="normal" field_border_type="solid" label_typo=",14,,,,,Solid,,,," field_state="focus" field_border_type_focus="solid" field_border_color_focus="#0e1b01ff" field_border_width_focus="1,1,1,1" icon="" contect_btn_align="center" ele_padding="0em,12em,0em,12em" ele_margin_tablet="0px,0px,0px,0px" ele_padding_tablet="0em,2em,0em,2em" ele_padding_mobile="0em,0em,0em,0em"]
+[pl_contact_item pagelayer-id="gF4KjTwanfWVt6C7"  label_name="Your Name" field_type="text" values="One
+Two" field_name="name" field_width="100" space_between="0,0,19,0" label_as_holder="true" required="true"]
+[/pl_contact_item]
+[pl_contact_item pagelayer-id="kuBUkw8xG6fZOWnH"  label_name="Your mail" field_type="email" values="One
+Two" field_name="email" field_width="100" space_between="0,0,19,0" label_as_holder="true" required="true"]
+[/pl_contact_item]
+[pl_contact_item pagelayer-id="8Bz41dR3KFph358i"  label_name="Subject" field_type="text" values="One
+Two" field_name="subject" field_width="100" space_between="0,0,19,0" label_as_holder="true"]
+[/pl_contact_item]
+[pl_contact_item pagelayer-id="EltIGnb7kbJNNsfW"  label_name="Message here" field_type="textarea" values="One
+Two" field_name="Fieldname" field_width="100" space_between="0,0,19,0" label_as_holder="true" textarea_rows="3"]
+[/pl_contact_item]
+[/pl_contact]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="XxC9mK26XTszDUwh"  stretch="full" col_gap="0" width_content="full" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_padding="0em,0em,0em,0em" ele_padding_mobile="0px,1px,1px,1px" border_width="2px,2px,2px,2px" border_color="#171515ff" ele_margin="3em,0em,0em,0em" ele_margin_mobile="2em,0em,3em,0em" ele_margin_tablet="3em,0em,3em,0em"]
+[pl_col pagelayer-id="ajpGN7SBjmQdWVWh"  widget_space="15" overlay_hover_delay="400" col="3" ele_padding="60px,20px,31px,20px" border_width="0px,0px,0px,0px" border_color="#131111ff" border_type_tablet="solid" border_width_tablet="2px,0px,2px,0px" border_color_tablet="#0d0d0dff" border_width_mobile="2px,0px,2px,0px" ele_bg_type="image" ele_bg_img="{{theme_url}}/images/gallery01.jpg" ele_bg_attachment="scroll" ele_bg_posx="center" ele_bg_posy="center" ele_bg_repeat="no-repeat" ele_bg_size="cover" overlay_type="color" overlay_transperancy="0.6" overlay_color="#161818ff" animation="fadeInUp" animation_delay="600"]
+[pl_heading pagelayer-id="addCPlDAqB68a4YA"  heading_state="normal" color="#fefefeff" heading_typo=",22,,,,,Solid,,Uppercase,,"]
+
+San Francisco[/pl_heading]
+[pl_address pagelayer-id="DeMqX0NMFrw0sqfd"  icon="fas fa-map-marker-alt" icon_color="#fbfbfbff" icon_size="NaN" color="#fafafaff" space="15" typography=",18,,,,,Solid,,,," ele_padding="10px,0px,8px,0px" animation="" animation_delay="800" ele_margin="0px,0px,0px,0px"]
+[/pl_address]
+[pl_phone pagelayer-id="Gr1hRhBgLXCVZXNt"  icon="fas fa-phone-alt" icon_color="#f8f8f9ff" icon_size="NaN" space="15" color="#fafafaff" typography=",18,,,,,Solid,,,," ele_padding="0px,0px,6px,0px" animation="" animation_delay="900" animation_speed="slowest" ele_margin="0px,0px,0px,0px"]
+[/pl_phone]
+[pl_email pagelayer-id="TrMVgcm7QgDqdeHL"  icon="far fa-envelope" space="15" icon_color="#ffffffff" icon_size="NaN" color="#fefefeff" typography=",18,,,,,Solid,,,," ele_padding="0px,0px,15px,0px" animation="" animation_delay="1000" animation_speed="slowest" ele_margin="0px,0px,0px,0px"]
+[/pl_email]
+[/pl_col]
+[pl_col pagelayer-id="bYsmXczRFkJwNsVW"  widget_space="15" overlay_hover_delay="400" col="3" ele_padding="0px,0px,0px,0px" border_width="0px,0px,0px,0px" border_color="" border_type_tablet="solid" border_width_tablet="0px,0px,0px,0px" border_width_mobile="1px,0px,2px,0px"]
+[pl_google_maps pagelayer-id="7QJGld2YNpBKegvy"  zoom="10" height="340" animation="fadeInUp" animation_delay="700" animation_speed="slowest" border_width="0px,0px,0px,0px" border_color="" ele_padding="0px,0px,0px,0px" ele_margin="0px,0px,-8px,0px"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+New York, New York, USA[/pl_google_maps]
+[/pl_col]
+[pl_col pagelayer-id="WMvwEwL5zpzR9eUN"  widget_space="15" overlay_hover_delay="400" col="3" ele_padding="60px,20px,31px,20px" border_width="0px,0px,0px,0px" border_color="#131111ff" border_type_tablet="solid" border_width_tablet="2px,0px,2px,0px" border_color_tablet="#0d0d0dff" border_width_mobile="2px,0px,2px,0px" ele_bg_type="image" ele_bg_attachment="scroll" ele_bg_posx="center" ele_bg_posy="center" ele_bg_repeat="no-repeat" ele_bg_size="cover" overlay_type="color" overlay_transperancy="0.6" overlay_color="#161818ff" animation="fadeInUp" animation_delay="600" ele_bg_img="{{theme_url}}/images/gallery03.jpg"]
+[pl_heading pagelayer-id="7KYxgqhFhR21vODP"  heading_state="normal" color="#fefefeff" heading_typo=",22,,,,,Solid,,Uppercase,,"]
+
+France[/pl_heading]
+[pl_address pagelayer-id="tRZ43GTQNiZ3emA5"  icon="fas fa-map-marker-alt" icon_color="#fbfbfbff" icon_size="NaN" color="#fafafaff" space="15" typography=",18,,,,,Solid,,,," ele_padding="10px,0px,8px,0px" animation="" animation_delay="800" ele_margin="0px,0px,0px,0px"]
+[/pl_address]
+[pl_phone pagelayer-id="dhERj78Fx4VaZ72g"  icon="fas fa-phone-alt" icon_color="#f8f8f9ff" icon_size="NaN" space="15" color="#fafafaff" typography=",18,,,,,Solid,,,," ele_padding="0px,0px,6px,0px" animation="" animation_delay="900" animation_speed="slowest" ele_margin="0px,0px,0px,0px"]
+[/pl_phone]
+[pl_email pagelayer-id="yvNlAjiZEXrCDTZv"  icon="far fa-envelope" space="15" icon_color="#ffffffff" icon_size="NaN" color="#fefefeff" typography=",18,,,,,Solid,,,," ele_padding="0px,0px,15px,0px" animation="" animation_delay="1000" animation_speed="slowest" ele_margin="0px,0px,0px,0px"]
+[/pl_email]
+[/pl_col]
+[pl_col pagelayer-id="Moc7EtYPZ1hkiZAr"  widget_space="15" overlay_hover_delay="400" col="3" ele_padding="0px,0px,0px,0px" border_width="0px,0px,0px,0px" border_color="" border_type_tablet="solid" border_width_tablet="0px,0px,0px,0px" border_width_mobile="1px,0px,2px,0px"]
+[pl_google_maps pagelayer-id="yqrT2IZoMkoaaKee"  zoom="10" height="340" animation="fadeInUp" animation_delay="700" animation_speed="slowest" border_width="0px,0px,0px,0px" border_color="" ele_padding="0px,0px,0px,0px" ele_margin="0px,0px,-8px,0px"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+New York, New York, USA[/pl_google_maps]
+[/pl_col]
+[/pl_row]
